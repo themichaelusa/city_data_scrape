@@ -1,0 +1,350 @@
+Aberdeen
+Agar
+Akaska
+Albee
+Alcester
+Alexandria
+Allen
+Alpena
+Altamont
+Andover
+Antelope
+Arlington
+Armour
+Artas
+Artesian
+Ashland Heights
+Ashton
+Astoria
+Aurora
+Aurora Center
+Avon
+Badger
+Baltic
+Bancroft
+Batesland
+Belle Fourche
+Belvidere
+Beresford
+Big Stone City
+Bison
+Blackhawk
+Blunt
+Bonesteel
+Bowdle
+Box Elder
+Bradley
+Brandon
+Brandt
+Brentford
+Bridgewater
+Bristol
+Britton
+Broadland
+Brookings
+Bruce
+Bryant
+Buffalo
+Buffalo Gap
+Bullhead
+Burke
+Bushnell
+Butler
+Camp Crook
+Canistota
+Canova
+Canton
+Carthage
+Castlewood
+Cavour
+Centerville
+Central City
+Chamberlain
+Chancellor
+Chelsea
+Claire City
+Claremont
+Clark
+Clear Lake
+Colman
+Colome
+Colonial Pine Hills
+Colton
+Columbia
+Conde
+Corona
+Corsica
+Cottonwood
+Cresbard
+Crooks
+Custer
+Dallas
+Dante
+Davis
+Deadwood
+Dell Rapids
+Delmont
+De Smet
+Dimock
+Doland
+Dolton
+Draper
+Dupree
+Eagle Butte
+Eden
+Edgemont
+Egan
+Elk Point
+Elkton
+Ellsworth Afb
+Emery
+Erwin
+Estelline
+Ethan
+Eureka
+Fairburn
+Fairfax
+Fairview
+Faith
+Farmer
+Faulkton
+Flandreau
+Florence
+Fort Pierre
+Fort Thompson
+Frankfort
+Frederick
+Freeman
+Fruitdale
+Fulton
+Garden City
+Garretson
+Gary
+Gayville
+Geddes
+Gettysburg
+Glenham
+Goodwin
+Green Grass
+Green Valley
+Gregory
+Grenville
+Groton
+Hamill
+Harrisburg
+Harrison
+Harrold
+Hartford
+Hayti
+Hazel
+Hecla
+Henry
+Hermosa
+Herreid
+Herrick
+Hetland
+Highmore
+Hill City
+Hillsview
+Hitchcock
+Hosmer
+Hot Springs
+Hoven
+Howard
+Hudson
+Humboldt
+Hurley
+Huron
+Interior
+Ipswich
+Irene
+Iroquois
+Isabel
+Java
+Jefferson
+Kadoka
+Kaylor
+Kennebec
+Keystone
+Kimball
+Kranzburg
+Kyle
+La Bolt
+Lake Andes
+Lake City
+Lake Norden
+Lake Preston
+Lane
+Langford
+La Plant
+Lead
+Lebanon
+Lemmon
+Lennox
+Leola
+Lesterville
+Letcher
+Lily
+Little Eagle
+Long Lake
+Loomis
+Lower Brule
+Lowry
+Mcintosh
+Mclaughlin
+Madison
+Manderson-white Horse Creek
+Marion
+Martin
+Marty
+Marvin
+Mellette
+Menno
+Midland
+Milbank
+Miller
+Milltown
+Mission
+Mission Hill
+Mitchell
+Mobridge
+Monroe
+Montrose
+Morristown
+Mound City
+Mount Vernon
+Murdo
+Naples
+New Effington
+Newell
+New Holland
+New Underwood
+New Witten
+Nisland
+North Eagle Butte
+North Sioux City
+North Spearfish
+Northville
+Nunda
+Oacoma
+Oelrichs
+Oglala
+Okaton
+Oldham
+Olivet
+Onaka
+Onida
+Orient
+Ortley
+Parker
+Parkston
+Parmelee
+Peever
+Philip
+Pickstown
+Pierpont
+Pierre
+Pine Ridge
+Plankinton
+Platte
+Pollock
+Porcupine
+Presho
+Pringle
+Pukwana
+Quinn
+Ramona
+Rapid City
+Rapid Valley
+Ravinia
+Raymond
+Redfield
+Ree Heights
+Reliance
+Revillo
+Rockham
+Roscoe
+Rosebud
+Rosholt
+Roslyn
+Roswell
+St. Charles
+St. Francis
+St. Lawrence
+Salem
+Scotland
+Selby
+Seneca
+Sherman
+Sinai
+Sioux Falls
+Sisseton
+South Shore
+Spearfish
+Spencer
+Spring Creek
+Springfield
+Stickney
+Stockholm
+Storla
+Strandburg
+Stratford
+Sturgis
+Summit
+Tabor
+Tea
+Timber Lake
+Tolstoy
+Toronto
+Trent
+Tripp
+Tulare
+Turton
+Twin Brooks
+Two Strike
+Tyndall
+Utica
+Valley Springs
+Veblen
+Verdon
+Vermillion
+Viborg
+Vienna
+Vilas
+Virgil
+Vivian
+Volga
+Volin
+Wagner
+Wakonda
+Wall
+Wallace
+Wanblee
+Ward
+Warner
+Wasta
+Watertown
+Waubay
+Webster
+Wentworth Village
+Wessington
+Wessington Springs
+Westport
+Wetonka
+White
+Whitehorse
+White Horse
+White Lake
+White River
+White Rock
+Whitewood
+Willow Lake
+Wilmot
+Winner
+Wolsey
+Wood
+Woonsocket
+Worthing
+Wounded Knee
+Yale
+Yankton

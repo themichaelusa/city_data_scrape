@@ -1,0 +1,630 @@
+Abbotsford
+Adams
+Adell Village
+Albany Village
+Algoma
+Allouez Village
+Alma
+Alma Center Village
+Almena Village
+Almond Village
+Altoona
+Amery
+Amherst Village
+Amherst Junction Village
+Aniwa Village
+Antigo
+Appleton
+Arcadia
+Arena Village
+Argyle Village
+Arlington Village
+Arpin Village
+Ashland
+Ashwaubenon Village
+Athens Village
+Auburndale Village
+Augusta
+Avoca Village
+Bagley Village
+Baldwin Village
+Balsam Lake Village
+Bangor Village
+Baraboo
+Barneveld Village
+Barron
+Bay City Village
+Bayfield
+Bayside Village
+Bear Creek Village
+Beaver Dam
+Belgium Village
+Bell Center Village
+Belleville Village
+Bellevue Town
+Belmont Village
+Beloit
+Benton Village
+Berlin
+Big Bend Village
+Big Falls Village
+Birchwood Village
+Birnamwood Village
+Biron Village
+Black Creek Village
+Black Earth Village
+Black River Falls
+Blair
+Blanchardville Village
+Bloomer
+Bloomington Village
+Blue Mounds Village
+Blue River Village
+Boaz Village
+Bohners Lake
+Bonduel Village
+Boscobel
+Bowler Village
+Boyceville Village
+Boyd Village
+Brandon Village
+Brice Prairie
+Brillion
+Brodhead
+Brokaw Village
+Brookfield
+Brooklyn Village
+Brown Deer Village
+Browns Lake
+Brownsville Village
+Browntown Village
+Bruce Village
+Buffalo City
+Burlington
+Butler Village
+Butternut Village
+Cadott Village
+Cambria Village
+Cambridge Village
+Cameron Village
+Campbellsport Village
+Camp Douglas Village
+Camp Lake
+Cascade Village
+Casco Village
+Cashton Village
+Cassville Village
+Catawba Village
+Cazenovia Village
+Cecil Village
+Cedarburg
+Cedar Grove Village
+Centuria Village
+Chain O' Lakes-king
+Chaseburg Village
+Chenequa Village
+Chetek
+Chief Lake
+Chilton
+Chippewa Falls
+Clayton Village
+Clear Lake Village
+Cleveland Village
+Clinton Village
+Clintonville
+Clyman Village
+Cobb Village
+Cochrane Village
+Colby
+Coleman Village
+Colfax Village
+Coloma Village
+Columbus
+Combined Locks Village
+Como
+Conrath Village
+Coon Valley Village
+Cornell
+Cottage Grove Village
+Couderay Village
+Crandon
+Crivitz Village
+Cross Plains Village
+Cuba City
+Cudahy
+Cumberland
+Curtiss Village
+Dallas Village
+Dane Village
+Darien Village
+Darlington
+Deerfield Village
+Deer Park Village
+Deforest Village
+Delafield
+Delavan
+Delavan Lake
+Denmark Village
+De Pere
+De Soto Village
+Dickeyville Village
+Dodgeville
+Dorchester Village
+Dousman Village
+Downing Village
+Doylestown Village
+Dresser Village
+Durand
+Eagle Village
+Eagle Lake
+Eagle River
+Eastman Village
+East Troy Village
+Eau Claire
+Eden Village
+Edgar Village
+Edgerton
+Egg Harbor Village
+Eland Village
+Elderon Village
+Eleva Village
+Elkhart Lake Village
+Elkhorn
+Elk Mound Village
+Ellsworth Village
+Elm Grove Village
+Elmwood Village
+Elmwood Park Village
+Elroy
+Embarrass Village
+Endeavor Village
+Ephraim Village
+Ettrick Village
+Evansville
+Evergreen
+Exeland Village
+Fairchild Village
+Fairwater Village
+Fall Creek Village
+Fall River Village
+Fennimore
+Fenwood Village
+Ferryville Village
+Fitchburg
+Fond Du Lac
+Fontana-on-geneva Lake Village
+Footville Village
+Forestville Village
+Fort Atkinson
+Fountain City
+Fox Lake
+Fox Point Village
+Francis Creek Village
+Franklin
+Franksville
+Frederic Village
+Fredonia Village
+Fremont Village
+French Island
+Friendship Village
+Friesland Village
+Galesville
+Gays Mills Village
+Genoa Village
+Genoa City Village
+Germantown Village
+Gillett
+Gilman Village
+Glenbeulah Village
+Glendale
+Glen Flora Village
+Glenwood City
+Grafton Village
+Granton Village
+Grantsburg Village
+Gratiot Village
+Green Bay
+Greendale Village
+Greenfield
+Green Lake
+Greenwood
+Gresham Village
+Hales Corners Village
+Hammond Village
+Hancock Village
+Hartford
+Hartland Village
+Hatley Village
+Haugen Village
+Hawkins Village
+Hayward
+Hazel Green Village
+Hebron
+Helenville
+Hewitt Village
+Highland Village
+Hilbert Village
+Hillsboro
+Hixton Village
+Hollandale Village
+Holmen Village
+Horicon
+Hortonville Village
+Howard Village
+Howards Grove Village
+Hudson
+Hurley
+Hustisford Village
+Hustler Village
+Independence
+Ingram Village
+Iola Village
+Iron Ridge Village
+Ironton Village
+Ixonia
+Jackson Village
+Janesville
+Jefferson
+Johnson Creek Village
+Junction City Village
+Juneau
+Kaukauna
+Kekoskee Village
+Kellnersville Village
+Kendall Village
+Kennan Village
+Kenosha
+Keshena
+Kewaskum Village
+Kewaunee
+Kiel
+Kimberly Village
+Kingston Village
+Knapp Village
+Kohler Village
+Lac Du Flambeau
+Lac La Belle Village
+La Crosse
+Ladysmith
+La Farge Village
+Lake Delton Village
+Lake Geneva
+Lake Koshkonong
+Lake Lac La Belle
+Lake Mills
+Lake Nebagamon Village
+Lake Ripley
+Lake Shangrila
+Lake Wazeecha
+Lake Wisconsin
+Lake Wissota
+Lancaster
+Lannon Village
+La Valle Village
+Legend Lake
+Lena Village
+Lime Ridge Village
+Linden Village
+Little Chute Village
+Little Round Lake
+Livingston Village
+Lodi
+Loganville Village
+Lohrville Village
+Lomira Village
+Lone Rock Village
+Lowell Village
+Loyal
+Lublin Village
+Luck Village
+Luxemburg Village
+Lyndon Station Village
+Lynxville Village
+Mcfarland Village
+Madison
+Maiden Rock Village
+Manawa
+Manitowoc
+Maple Bluff Village
+Marathon City Village
+Maribel Village
+Marinette
+Marion
+Markesan
+Marquette Village
+Marshall Village
+Marshfield
+Mason Village
+Mattoon Village
+Mauston
+Mayville
+Mazomanie Village
+Medford
+Mellen
+Melrose Village
+Melvina Village
+Menasha
+Menomonee Falls Village
+Menomonie
+Mequon
+Merrill
+Merrillan Village
+Merrimac Village
+Merton Village
+Middleton
+Middle Village
+Milladore Village
+Milltown Village
+Milton
+Milwaukee
+Mineral Point
+Minong Village
+Mishicot Village
+Mondovi
+Monona
+Monroe
+Montello
+Montfort Village
+Monticello Village
+Montreal
+Mosinee
+Mount Calvary Village
+Mount Hope Village
+Mount Horeb Village
+Mount Sterling Village
+Mukwonago Village
+Muscoda Village
+Muskego
+Nashotah Village
+Necedah Village
+Neenah
+Neillsville
+Nekoosa
+Nelson Village
+Nelsonville Village
+Neopit
+Neosho Village
+Neshkoro Village
+New Auburn Village
+New Berlin
+Newburg Village
+New Glarus Village
+New Holstein
+New Lisbon
+New London
+New Post
+New Richmond
+Niagara
+Nichols Village
+North Bay Village
+North Fond Du Lac Village
+North Freedom Village
+North Hudson Village
+North Prairie Village
+Norwalk Village
+Oak Creek
+Oakdale Village
+Oakfield Village
+Oconomowoc
+Oconomowoc Lake Village
+Oconto
+Oconto Falls
+Odanah
+Ogdensburg Village
+Okauchee Lake
+Oliver Village
+Omro
+Onalaska
+Oneida
+Ontario Village
+Oostburg Village
+Oregon Village
+Orfordville Village
+Osceola Village
+Oshkosh
+Osseo
+Owen
+Oxford Village
+Paddock Lake Village
+Palmyra Village
+Pardeeville Village
+Park Falls
+Park Ridge Village
+Patch Grove Village
+Pell Lake
+Pepin Village
+Peshtigo
+Pewaukee
+Pewaukee Village
+Phillips
+Pigeon Falls Village
+Pittsville
+Plain Village
+Plainfield Village
+Platteville
+Pleasant Prairie Village
+Plover Village
+Plum City Village
+Plymouth
+Poplar Village
+Portage
+Port Edwards Village
+Port Washington
+Potosi Village
+Potter Village
+Potter Lake
+Pound Village
+Powers Lake
+Poynette Village
+Prairie Du Chien
+Prairie Du Sac Village
+Prairie Farm Village
+Prentice Village
+Prescott
+Princeton
+Pulaski Village
+Racine
+Radisson Village
+Randolph Village
+Random Lake Village
+Readstown Village
+Redgranite Village
+Reedsburg
+Reedsville Village
+Reeseville Village
+Reserve
+Rewey Village
+Rhinelander
+Rib Lake Village
+Rib Mountain
+Rice Lake
+Richland Center
+Ridgeland Village
+Ridgeway Village
+Rio Village
+Ripon
+River Falls
+River Hills Village
+Roberts Village
+Rochester Village
+Rockdale Village
+Rockland Village
+Rock Springs Village
+Rome
+Rosendale Village
+Rosholt Village
+Rothschild Village
+Rudolph Village
+St. Cloud Village
+St. Croix Falls
+St. Francis
+St. Nazianz Village
+Sauk City Village
+Saukville Village
+Scandinavia Village
+Schofield
+Seymour
+Seymour
+Sharon Village
+Shawano
+Sheboygan
+Sheboygan Falls
+Sheldon Village
+Shell Lake
+Sherwood Village
+Shiocton Village
+Shorewood Village
+Shorewood Hills Village
+Shullsburg
+Silver Lake Village
+Siren Village
+Sister Bay Village
+Slinger Village
+Soldiers Grove Village
+Solon Springs Village
+Somerset Village
+South Milwaukee
+South Wayne Village
+Sparta
+Spencer Village
+Spooner
+Spring Green Village
+Spring Valley Village
+Stanley
+Star Prairie Village
+Stetsonville Village
+Steuben Village
+Stevens Point
+Stockbridge Village
+Stockholm Village
+Stoddard Village
+Stoughton
+Stratford Village
+Strum Village
+Sturgeon Bay
+Sturtevant Village
+Sullivan Village
+Sun Prairie
+Superior
+Superior Village
+Suring Village
+Sussex Village
+Tainter Lake
+Taylor Village
+Tennyson Village
+Theresa Village
+Thiensville Village
+Thorp
+Tigerton Village
+Tomah
+Tomahawk
+Tony Village
+Trempealeau Village
+Turtle Lake Village
+Twin Lakes Village
+Two Rivers
+Union Center Village
+Union Grove Village
+Unity Village
+Valders Village
+Verona
+Vesper Village
+Viola Village
+Viroqua
+Waldo Village
+Wales Village
+Walworth Village
+Warrens Village
+Washburn
+Waterford Village
+Waterford North
+Waterloo
+Watertown
+Waukesha
+Waunakee Village
+Waupaca
+Waupun
+Wausau
+Wausaukee Village
+Wautoma
+Wauwatosa
+Wauzeka Village
+Webster Village
+West Allis
+West Baraboo Village
+West Bend
+Westby
+Westfield Village
+West Milwaukee Village
+Weston Village
+West Salem Village
+Weyauwega
+Weyerhaeuser Village
+Wheeler Village
+Whitefish Bay Village
+Whitehall
+White Lake Village
+Whitelaw Village
+Whitewater
+Whiting Village
+Wild Rose Village
+Williams Bay Village
+Wilson Village
+Wilton Village
+Wind Lake
+Wind Point Village
+Windsor
+Winneconne Village
+Winter Village
+Wisconsin Dells
+Wisconsin Rapids
+Withee Village
+Wittenberg Village
+Wonewoc Village
+Woodman Village
+Woodville Village
+Wrightstown Village
+Wyeville Village
+Wyocena Village
+Yuba Village
+Zoar

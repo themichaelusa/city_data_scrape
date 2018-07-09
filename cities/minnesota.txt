@@ -1,0 +1,867 @@
+Ada
+Adams
+Adrian
+Afton
+Aitkin
+Akeley
+Albany
+Alberta
+Albert Lea
+Albertville
+Alden
+Aldrich
+Alexandria
+Alpha
+Altura
+Alvarado
+Amboy
+Andover
+Annandale
+Anoka
+Appleton
+Apple Valley
+Arco
+Arden Hills
+Argyle
+Arlington
+Arnold
+Ashby
+Askov
+Atwater
+Audubon
+Aurora
+Austin
+Avoca
+Avon
+Babbitt
+Backus
+Badger
+Bagley
+Balaton
+Barnesville
+Barnum
+Barrett
+Barry
+Battle Lake
+Baudette
+Baxter
+Bayport
+Beardsley
+Beaver Bay
+Beaver Creek
+Becker
+Bejou
+Belgrade
+Bellechester
+Belle Plaine
+Bellingham
+Beltrami
+Belview
+Bemidji
+Bena
+Benson
+Bertha
+Bethel
+Bigelow
+Big Falls
+Bigfork
+Big Lake
+Bingham Lake
+Birchwood Village
+Bird Island
+Biscay
+Biwabik
+Blackduck
+Blaine
+Blomkest
+Blooming Prairie
+Bloomington
+Blue Earth
+Bluffton
+Bock
+Borup
+Bovey
+Bowlus
+Boyd
+Boy River
+Braham
+Brainerd
+Brandon
+Breckenridge
+Breezy Point
+Brewster
+Bricelyn
+Brooklyn Center
+Brooklyn Park
+Brook Park
+Brooks
+Brookston
+Brooten
+Browerville
+Brownsdale
+Browns Valley
+Brownsville
+Brownton
+Bruno
+Buckman
+Buffalo
+Buffalo Lake
+Buhl
+Burnsville
+Burtrum
+Butterfield
+Byron
+Caledonia
+Callaway
+Calumet
+Cambridge
+Campbell
+Canby
+Cannon Falls
+Canton
+Carlos
+Carlton
+Carver
+Cass Lake
+Cedar Mills
+Center City
+Centerville
+Ceylon
+Champlin
+Chandler
+Chanhassen
+Chaska
+Chatfield
+Chickamaw Beach
+Chisago City
+Chisholm
+Chokio
+Circle Pines
+Clara City
+Claremont
+Clarissa
+Clarkfield
+Clarks Grove
+Clearbrook
+Clear Lake
+Clearwater
+Clements
+Cleveland
+Climax
+Clinton
+Clitherall
+Clontarf
+Cloquet
+Coates
+Cobden
+Cohasset
+Cokato
+Cold Spring
+Coleraine
+Cologne
+Columbia Heights
+Comfrey
+Comstock
+Conger
+Cook
+Coon Rapids
+Corcoran
+Correll
+Cosmos
+Cottage Grove
+Cottonwood
+Courtland
+Cromwell
+Crookston
+Crosby
+Crosslake
+Crystal
+Currie
+Cuyuna
+Cyrus
+Dakota
+Dalton
+Danube
+Danvers
+Darfur
+Darwin
+Dassel
+Dawson
+Dayton
+Deephaven
+Deer Creek
+Deer River
+Deerwood
+De Graff
+Delano
+Delavan
+Delhi
+Dellwood
+Denham
+Dennison
+Dent
+Detroit Lakes
+Dexter
+Dilworth
+Dodge Center
+Donaldson
+Donnelly
+Doran
+Dover
+Dovray
+Duluth
+Dumont
+Dundas
+Dundee
+Dunnell
+Eagan
+Eagle Bend
+Eagle Lake
+East Bethel
+East Grand Forks
+East Gull Lake
+Easton
+Echo
+Eden Prairie
+Eden Valley
+Edgerton
+Edina
+Effie
+Eitzen
+Elba
+Elbow Lake
+Elbow Lake
+Elgin
+Elizabeth
+Elko
+Elk River
+Elkton
+Ellendale
+Ellsworth
+Elmdale
+Elmore
+Elrosa
+Ely
+Elysian
+Emily
+Emmons
+Erhard
+Erskine
+Evan
+Evansville
+Eveleth
+Excelsior
+Eyota
+Fairfax
+Fairmont
+Falcon Heights
+Faribault
+Farmington
+Farwell
+Federal Dam
+Felton
+Fergus Falls
+Fertile
+Fifty Lakes
+Finlayson
+Fisher
+Flensburg
+Floodwood
+Florence
+Foley
+Forada
+Forest Lake
+Foreston
+Fort Ripley
+Fosston
+Fountain
+Foxhome
+Franklin
+Frazee
+Freeborn
+Freeport
+Fridley
+Frost
+Fulda
+Funkley
+Garfield
+Garrison
+Garvin
+Gary
+Gaylord
+Gem Lake
+Geneva
+Genola
+Georgetown
+Ghent
+Gibbon
+Gilbert
+Gilman
+Glencoe
+Glenville
+Glenwood
+Glyndon
+Golden Valley
+Gonvick
+Goodhue
+Goodridge
+Good Thunder
+Goodview
+Graceville
+Granada
+Grand Marais
+Grand Meadow
+Grand Rapids
+Granite Falls
+Grant
+Grasston
+Greenbush
+Greenfield
+Green Isle
+Greenwald
+Greenwood
+Grey Eagle
+Grove City
+Grygla
+Gully
+Hackensack
+Hadley
+Hallock
+Halma
+Halstad
+Hamburg
+Ham Lake
+Hammond
+Hampton
+Hancock
+Hanley Falls
+Hanover
+Hanska
+Harding
+Hardwick
+Harmony
+Harris
+Hartland
+Hastings
+Hatfield
+Hawley
+Hayfield
+Hayward
+Hazel Run
+Hector
+Heidelberg
+Henderson
+Hendricks
+Hendrum
+Henning
+Henriette
+Herman
+Hermantown
+Heron Lake
+Hewitt
+Hibbing
+Hill City
+Hillman
+Hills
+Hilltop
+Hinckley
+Hitterdal
+Hoffman
+Hokah
+Holdingford
+Holland
+Hollandale
+Holloway
+Holt
+Hopkins
+Houston
+Howard Lake
+Hoyt Lakes
+Hugo
+Humboldt
+Hutchinson
+Ihlen
+Independence
+International Falls
+Inver Grove Heights
+Iona
+Iron Junction
+Ironton
+Isanti
+Isle
+Ivanhoe
+Jackson
+Janesville
+Jasper
+Jeffers
+Jenkins
+Johnson
+Jordan
+Kandiyohi
+Karlstad
+Kasota
+Kasson
+Keewatin
+Kelliher
+Kellogg
+Kennedy
+Kenneth
+Kensington
+Kent
+Kenyon
+Kerkhoven
+Kerrick
+Kettle River
+Kiester
+Kilkenny
+Kimball
+Kinbrae
+Kingston
+Kinney
+La Crescent
+Lafayette
+Lake Benton
+Lake Bronson
+Lake City
+Lake Crystal
+Lake Elmo
+Lakefield
+Lake Henry
+Lakeland
+Lakeland Shores
+Lake Lillian
+Lake Park
+Lake St. Croix Beach
+Lake Shore
+Lakeville
+Lake Wilson
+Lamberton
+Lancaster
+Landfall
+Lanesboro
+Laporte
+La Prairie
+La Salle
+Lastrup
+Lauderdale
+Le Center
+Lengby
+Leonard
+Leonidas
+Leota
+Le Roy
+Lester Prairie
+Le Sueur
+Lewiston
+Lewisville
+Lexington
+Lilydale
+Lindstrom
+Lino Lakes
+Lismore
+Litchfield
+Little Canada
+Little Falls
+Littlefork
+Little Rock
+Long Beach
+Long Lake
+Long Prairie
+Longville
+Lonsdale
+Loretto
+Louisburg
+Lowry
+Lucan
+Luverne
+Lyle
+Lynd
+Mabel
+Mcgrath
+Mcgregor
+Mcintosh
+Mckinley
+Madelia
+Madison
+Madison Lake
+Magnolia
+Mahnomen
+Mahtomedi
+Manchester
+Manhattan Beach
+Mankato
+Mantorville
+Maple Grove
+Maple Lake
+Maple Plain
+Mapleton
+Mapleview
+Maplewood
+Marble
+Marietta
+Marine On St. Croix
+Marshall
+Mayer
+Maynard
+Mazeppa
+Meadowlands
+Medford
+Medicine Lake
+Medina
+Meire Grove
+Melrose
+Menahga
+Mendota
+Mendota Heights
+Mentor
+Middle River
+Miesville
+Milaca
+Milan
+Millerville
+Millville
+Milroy
+Miltona
+Minneapolis
+Minneiska
+Minneota
+Minnesota City
+Minnesota Lake
+Minnetonka
+Minnetonka Beach
+Minnetrista
+Mizpah
+Montevideo
+Montgomery
+Monticello
+Montrose
+Moorhead
+Moose Lake
+Mora
+Morgan
+Morris
+Morristown
+Morton
+Motley
+Mound
+Mounds View
+Mountain Iron
+Mountain Lake
+Murdock
+Myrtle
+Nashua
+Nashwauk
+Nassau
+Naytahwaush
+Nelson
+Nerstrand
+Nevis
+New Auburn
+New Brighton
+Newfolden
+New Germany
+New Hope
+New London
+New Market
+New Munich
+Newport
+New Prague
+New Richland
+New Trier
+New Ulm
+New York Mills
+Nicollet
+Nielsville
+Nimrod
+Nisswa
+Norcross
+North Branch
+Northfield
+North Mankato
+North Oaks
+Northome
+Northrop
+North St. Paul
+Norwood Young America
+Oakdale
+Oak Grove
+Oak Park Heights
+Oakport
+Odessa
+Odin
+Ogema
+Ogilvie
+Okabena
+Oklee
+Olivia
+Onamia
+Ormsby
+Orono
+Oronoco
+Orr
+Ortonville
+Osakis
+Oslo
+Osseo
+Ostrander
+Otsego
+Ottertail
+Owatonna
+Palisade
+Parkers Prairie
+Park Rapids
+Paynesville
+Pease
+Pelican Rapids
+Pemberton
+Pennock
+Pequot Lakes
+Perham
+Perley
+Peterson
+Pierz
+Pillager
+Pine City
+Pine Island
+Pine Point
+Pine River
+Pine Springs
+Pipestone
+Plainview
+Plato
+Pleasant Lake
+Plummer
+Plymouth
+Ponemah
+Porter
+Preston
+Princeton
+Prinsburg
+Prior Lake
+Proctor
+Quamba
+Racine
+Ramsey
+Randall
+Randolph
+Ranier
+Raymond
+Redby
+Red Lake
+Red Lake Falls
+Red Wing
+Redwood Falls
+Regal
+Remer
+Renville
+Revere
+Rice
+Rice Lake
+Richfield
+Richmond
+Richville
+Riverton
+Robbinsdale
+Rochester
+Rock Creek
+Rockford
+Rockville
+Rogers
+Rollingstone
+Ronneby
+Roosevelt
+Roscoe
+Roseau
+Rose Creek
+Rosemount
+Roseville
+Rothsay
+Round Lake
+Royalton
+Rush City
+Rushford
+Rushford Village
+Rushmore
+Russell
+Ruthton
+Rutledge
+Sabin
+Sacred Heart
+St. Anthony City (hennepin County)
+St. Anthony City (stearns County)
+St. Bonifacius
+St. Charles
+St. Clair
+St. Cloud
+St. Francis
+St. Hilaire
+St. James
+St. Joseph
+St. Leo
+St. Louis Park
+St. Martin
+St. Marys Point
+St. Michael
+St. Paul
+St. Paul Park
+St. Peter
+St. Rosa
+St. Stephen
+St. Vincent
+Sanborn
+Sandstone
+Sargeant
+Sartell
+Sauk Centre
+Sauk Rapids
+Savage
+Scanlon
+Seaforth
+Sebeka
+Sedan
+Shafer
+Shakopee
+Shelly
+Sherburn
+Shevlin
+Shoreview
+Shorewood
+Silver Bay
+Silver Lake
+Skyline
+Slayton
+Sleepy Eye
+Sobieski
+Solway
+South Haven
+South St. Paul
+Spicer
+Springfield
+Spring Grove
+Spring Hill
+Spring Lake Park
+Spring Park
+Spring Valley
+Squaw Lake
+Stacy
+Staples
+Starbuck
+Steen
+Stephen
+Stewart
+Stewartville
+Stillwater
+Stockton
+Storden
+Strandquist
+Strathcona
+Sturgeon Lake
+Sunburg
+Sunfish Lake
+Swanville
+Taconite
+Tamarack
+Taopi
+Taunton
+Taylors Falls
+Tenney
+Tenstrike
+The Lakes
+Thief River Falls
+Thomson
+Tintah
+Tonka Bay
+Tower
+Tracy
+Trail
+Trimont
+Trommald
+Trosky
+Truman
+Turtle River
+Twin Lakes
+Twin Valley
+Two Harbors
+Tyler
+Ulen
+Underwood
+Upsala
+Urbank
+Utica
+Vadnais Heights
+Vergas
+Vermillion
+Verndale
+Vernon Center
+Vesta
+Victoria
+Viking
+Villard
+Vineland
+Vining
+Virginia
+Wabasha
+Wabasso
+Waconia
+Wadena
+Wahkon
+Waite Park
+Waldorf
+Walker
+Walnut Grove
+Walters
+Waltham
+Wanamingo
+Wanda
+Warba
+Warren
+Warroad
+Waseca
+Watertown
+Waterville
+Watkins
+Watson
+Waubun
+Waverly
+Wayzata
+Welcome
+Wells
+Wendell
+Westbrook
+West Concord
+Westport
+West St. Paul
+West Union
+Whalan
+Wheaton
+White Bear Lake
+White Earth
+Wilder
+Willernie
+Williams
+Willmar
+Willow River
+Wilmont
+Wilton
+Windom
+Winger
+Winnebago
+Winona
+Winsted
+Winthrop
+Winton
+Wolf Lake
+Wolverton
+Woodbury
+Wood Lake
+Woodland
+Woodstock
+Worthington
+Wrenshall
+Wright
+Wykoff
+Wyoming
+Zemple
+Zimmerman
+Zumbro Falls
+Zumbrota

@@ -1,0 +1,596 @@
+Abbeville
+Acworth
+Adairsville
+Adel
+Adrian
+Ailey
+Alamo
+Alapaha
+Albany
+Aldora
+Allenhurst
+Allentown
+Alma
+Alpharetta
+Alston
+Alto
+Ambrose
+Americus
+Andersonville
+Arabi
+Aragon
+Arcade
+Argyle
+Arlington
+Arnoldsville
+Ashburn
+Athens-clarke County (balance)
+Atlanta
+Attapulgus
+Auburn
+Augusta-richmond County (balance)
+Austell
+Avalon
+Avera
+Avondale Estates
+Baconton
+Bainbridge
+Baldwin
+Ball Ground
+Barnesville
+Bartow
+Barwick
+Baxley
+Bellville
+Belvedere Park
+Berkeley Lake
+Berlin
+Bethlehem
+Between
+Bibb City
+Bishop
+Blackshear
+Blacksville
+Blairsville
+Blakely
+Bloomingdale
+Blue Ridge
+Bluffton
+Blythe
+Bogart
+Bonanza
+Boston
+Bostwick
+Bowdon
+Bowersville
+Bowman
+Braselton
+Braswell
+Bremen
+Brinson
+Bronwood
+Brooklet
+Brooks
+Broxton
+Brunswick
+Buchanan
+Buckhead
+Buena Vista
+Buford
+Butler
+Byromville
+Byron
+Cadwell
+Cairo
+Calhoun
+Camak
+Camilla
+Candler-mcafee
+Canon
+Canton
+Carl
+Carlton
+Carnesville
+Carrollton
+Cartersville
+Cave Spring
+Cecil
+Cedartown
+Centerville
+Centralhatchee
+Chamblee
+Chatsworth
+Chattanooga Valley
+Chauncey
+Chester
+Chickamauga
+Clarkesville
+Clarkston
+Claxton
+Clayton
+Clermont
+Cleveland
+Climax
+Cobbtown
+Cochran
+Cohutta
+Colbert
+Coleman
+College Park
+Collins
+Colquitt
+Columbus City (balance)
+Comer
+Commerce
+Concord
+Conley
+Conyers
+Coolidge
+Cordele
+Corinth
+Cornelia
+Country Club Estates
+Covington
+Crawford
+Crawfordville
+Culloden
+Cumming
+Cusseta
+Cuthbert
+Dacula
+Dahlonega
+Daisy
+Dallas
+Dalton
+Damascus
+Danielsville
+Danville
+Darien
+Dasher
+Davisboro
+Dawson
+Dawsonville
+Dearing
+Decatur
+Deenwood
+Deepstep
+Demorest
+Denton
+De Soto
+Dexter
+Dillard
+Dock Junction
+Doerun
+Donalsonville
+Dooling
+Doraville
+Douglas
+Douglasville
+Druid Hills
+Dublin
+Dudley
+Duluth
+Dunwoody
+Du Pont
+East Dublin
+East Ellijay
+East Griffin
+Eastman
+East Newnan
+East Point
+Eatonton
+Edge Hill
+Edison
+Elberton
+Ellaville
+Ellenton
+Ellijay
+Emerson
+Enigma
+Ephesus
+Eton
+Euharlee
+Evans
+Experiment
+Fairburn
+Fairmount
+Fair Oaks
+Fairview
+Fargo
+Fayetteville
+Fitzgerald
+Flemington
+Flovilla
+Flowery Branch
+Folkston
+Forest Park
+Forsyth
+Fort Benning South
+Fort Gaines
+Fort Oglethorpe
+Fort Stewart
+Fort Valley
+Franklin
+Franklin Springs
+Funston
+Gainesville
+Garden City
+Garfield
+Gay
+Geneva
+Georgetown
+Georgetown
+Gibson
+Gillsville
+Girard
+Glennville
+Glenwood
+Good Hope
+Gordon
+Graham
+Grantville
+Gray
+Grayson
+Greensboro
+Greenville
+Gresham Park
+Griffin
+Grovetown
+Gumbranch
+Gumlog
+Guyton
+Hagan
+Hahira
+Hamilton
+Hampton
+Hannahs Mill
+Hapeville
+Haralson
+Harlem
+Harrison
+Hartwell
+Hawkinsville
+Hazlehurst
+Helen
+Helena
+Hephzibah
+Hiawassee
+Higgston
+Hilltop
+Hiltonia
+Hinesville
+Hiram
+Hoboken
+Hogansville
+Holly Springs
+Homeland
+Homer
+Homerville
+Hoschton
+Hull
+Ideal
+Ila
+Indian Springs
+Iron City
+Irondale
+Irwinton
+Isle Of Hope
+Ivey
+Jackson
+Jacksonville
+Jakin
+Jasper
+Jefferson
+Jeffersonville
+Jenkinsburg
+Jersey
+Jesup
+Jonesboro
+Junction City
+Kennesaw
+Keysville
+Kings Bay Base
+Kingsland
+Kingston
+Kite
+La Fayette
+Lagrange
+Lake City
+Lakeland
+Lake Park
+Lakeview
+Lakeview Estates
+Lavonia
+Lawrenceville
+Leary
+Leesburg
+Lenox
+Leslie
+Lexington
+Lilburn
+Lilly
+Lincoln Park
+Lincolnton
+Lindale
+Lithia Springs
+Lithonia
+Locust Grove
+Loganville
+Lone Oak
+Lookout Mountain
+Louisville
+Lovejoy
+Ludowici
+Lula
+Lumber City
+Lumpkin
+Luthersville
+Lyerly
+Lyons
+Mableton
+Mccaysville
+Mcdonough
+Mcintyre
+Macon
+Mcrae
+Madison
+Manassas
+Manchester
+Mansfield
+Marietta
+Marshallville
+Martin
+Martinez
+Maxeys
+Maysville
+Meansville
+Meigs
+Menlo
+Metter
+Midville
+Midway
+Midway-hardwick
+Milan
+Milledgeville
+Millen
+Milner
+Mitchell
+Molena
+Monroe
+Montezuma
+Montgomery
+Monticello
+Montrose
+Moody Afb
+Moreland
+Morgan
+Morganton
+Morrow
+Morven
+Moultrie
+Mountain City
+Mountain Park
+Mountain Park
+Mount Airy
+Mount Vernon
+Mount Zion
+Nahunta
+Nashville
+Nelson
+Newborn
+Newington
+Newnan
+Newton
+Nicholls
+Nicholson
+Norcross
+Norman Park
+North Atlanta
+North Decatur
+North Druid Hills
+North High Shoals
+Norwood
+Nunez
+Oak Park
+Oakwood
+Ochlocknee
+Ocilla
+Oconee
+Odum
+Offerman
+Oglethorpe
+Oliver
+Omega
+Orchard Hill
+Oxford
+Palmetto
+Panthersville
+Parrott
+Patterson
+Pavo
+Payne
+Peachtree City
+Pearson
+Pelham
+Pembroke
+Pendergrass
+Perry
+Phillipsburg
+Pinehurst
+Pine Lake
+Pine Mountain
+Pineview
+Pitts
+Plains
+Plainville
+Pooler
+Portal
+Porterdale
+Port Wentworth
+Poulan
+Powder Springs
+Preston
+Pulaski
+Putney
+Quitman
+Ranger
+Raoul
+Ray City
+Rayle
+Rebecca
+Redan
+Reed Creek
+Register
+Reidsville
+Remerton
+Rentz
+Resaca
+Rest Haven
+Reynolds
+Rhine
+Riceboro
+Richland
+Richmond Hill
+Riddleville
+Rincon
+Ringgold
+Riverdale
+Riverside
+Roberta
+Robins Afb
+Rochelle
+Rockmart
+Rocky Ford
+Rome
+Roopville
+Rossville
+Roswell
+Royston
+Rutledge
+St. Marys
+St. Simons
+Sale City
+Salem
+Sandersville
+Sandy Springs
+Santa Claus
+Sardis
+Sasser
+Savannah
+Scotland
+Scottdale
+Screven
+Senoia
+Shady Dale
+Shannon
+Sharon
+Sharpsburg
+Shellman
+Shiloh
+Siloam
+Skidaway Island
+Sky Valley
+Smithville
+Smyrna
+Snellville
+Social Circle
+Soperton
+Sparks
+Sparta
+Springfield
+Stapleton
+Statesboro
+Statham
+Stillmore
+Stockbridge
+Stone Mountain
+Sugar Hill
+Summertown
+Summerville
+Sumner
+Sunny Side
+Sunnyside
+Sunset Village
+Surrency
+Suwanee
+Swainsboro
+Sycamore
+Sylvania
+Sylvester
+Talbotton
+Talking Rock
+Tallapoosa
+Tallulah Falls
+Talmo
+Tarrytown Village
+Taylorsville
+Temple
+Tennille
+Thomaston
+Thomasville
+Thomson
+Thunderbolt
+Tifton
+Tiger
+Tignall
+Toccoa
+Toomsboro
+Trenton
+Trion
+Tucker
+Tunnel Hill
+Turin
+Twin City
+Tybee Island
+Tyrone
+Ty Ty
+Unadilla
+Union City
+Union Point
+Unionville
+Uvalda
+Valdosta
+Varnell
+Vernonburg
+Vidalia
+Vidette
+Vienna
+Villa Rica
+Vinings
+Waco
+Wadley
+Waleska
+Walnut Grove
+Walthourville
+Warm Springs
+Warner Robins
+Warrenton
+Warwick
+Washington
+Watkinsville
+Waverly Hall
+Waycross
+Waynesboro
+Weston
+West Point
+Whigham
+White
+Whitemarsh Island
+White Plains
+Whitesburg
+Willacoochee
+Williamson
+Wilmington Island
+Winder
+Winterville
+Woodbine
+Woodbury
+Woodland
+Woodstock
+Woodville
+Woolsey
+Wrens
+Wrightsville
+Yatesville
+Young Harris
+Zebulon

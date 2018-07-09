@@ -1,0 +1,630 @@
+Addison Village
+Adrian
+Ahmeek Village
+Akron Village
+Alanson Village
+Albion
+Algonac
+Allegan
+Allen Village
+Allendale
+Allen Park
+Alma
+Almont Village
+Alpena
+Alpha Village
+Ann Arbor
+Applegate Village
+Argentine
+Armada Village
+Ashley Village
+Athens Village
+Atlanta
+Auburn
+Auburn Hills
+Au Gres
+Augusta Village
+Au Sable
+Bad Axe
+Baldwin Village
+Bancroft Village
+Bangor
+Baraga Village
+Barnes Lake-millers Lake
+Baroda Village
+Barryton Village
+Barton Hills Village
+Battle Creek
+Bay City
+Beal City
+Bear Lake Village
+Beaverton
+Beecher
+Beechwood
+Belding
+Bellaire Village
+Belleville
+Bellevue Village
+Benton Harbor
+Benton Heights
+Benzonia Village
+Berkley
+Berrien Springs Village
+Bessemer
+Beulah Village
+Beverly Hills Village
+Big Bay
+Big Rapids
+Bingham Farms Village
+Birch Run Village
+Birmingham
+Blissfield Village
+Bloomfield Hills
+Bloomfield Township
+Bloomingdale Village
+Boyne City
+Boyne Falls Village
+Breckenridge Village
+Breedsville Village
+Bridgeport
+Bridgman
+Brighton
+Britton Village
+Bronson
+Brooklyn Village
+Brown City
+Brownlee Park
+Buchanan
+Buckley Village
+Buena Vista
+Burlington Village
+Burr Oak Village
+Burt
+Burton
+Byron Village
+Byron Center
+Cadillac
+Caledonia Village
+Calumet Village
+Camden Village
+Canada Creek Ranch
+Canadian Lakes
+Canton
+Capac Village
+Carleton Village
+Carney Village
+Caro Village
+Carrollton
+Carson City
+Carsonville Village
+Caseville Village
+Casnovia Village
+Caspian
+Cass City Village
+Cassopolis Village
+Cedar Springs
+Cement City Village
+Center Line
+Central Lake Village
+Centreville Village
+Charlevoix
+Charlotte
+Chatham Village
+Cheboygan
+Chelsea Village
+Chesaning Village
+Clare
+Clarksville Village
+Clawson
+Clayton Village
+Clifford Village
+Climax Village
+Clinton Village
+Clinton
+Clio
+Coldwater
+Coleman
+Coloma
+Colon Village
+Columbiaville Village
+Comstock Northwest
+Comstock Park
+Concord Village
+Constantine Village
+Coopersville
+Copemish Village
+Copper City Village
+Corunna
+Croswell
+Crystal Falls
+Custer Village
+Cutlerville
+Daggett Village
+Dansville Village
+Davison
+Dearborn
+Dearborn Heights
+Decatur Village
+Deckerville Village
+Deerfield Village
+De Tour Village Village
+Detroit
+Detroit Beach
+De Witt
+Dexter Village
+Dimondale Village
+Douglas Village
+Dowagiac
+Dryden Village
+Dundee Village
+Durand
+Eagle Village
+East Grand Rapids
+East Jordan
+Eastlake Village
+East Lansing
+Eastpointe
+East Tawas
+Eastwood
+Eaton Rapids
+Eau Claire Village
+Ecorse
+Edgemont Park
+Edmore Village
+Edwardsburg Village
+Elberta Village
+Elk Rapids Village
+Elkton Village
+Ellsworth Village
+Elsie Village
+Emmett Village
+Empire Village
+Escanaba
+Essexville
+Estral Beach Village
+Evart
+Fairgrove Village
+Fair Plain
+Farmington
+Farmington Hills
+Farwell Village
+Fennville
+Fenton
+Ferndale
+Ferrysburg
+Fife Lake Village
+Flat Rock
+Flint
+Flushing
+Forest Hills
+Forestville Village
+Fountain Village
+Fowler Village
+Fowlerville Village
+Frankenmuth
+Frankfort
+Franklin Village
+Fraser
+Freeland
+Freeport Village
+Free Soil Village
+Fremont
+Fruitport Village
+Gaastra
+Gagetown Village
+Gaines Village
+Galesburg
+Galien Village
+Garden Village
+Garden City
+Gaylord
+Gibraltar
+Gladstone
+Gladwin
+Gobles
+Goodrich Village
+Grand Beach Village
+Grand Blanc
+Grand Haven
+Grand Ledge
+Grand Rapids
+Grandville
+Grant
+Grass Lake Village
+Grayling
+Greater Galesburg
+Greenville
+Greilickville
+Grosse Ile
+Grosse Pointe
+Grosse Pointe Farms
+Grosse Pointe Park
+Grosse Pointe Shores Village
+Grosse Pointe Woods
+Gwinn
+Hamtramck
+Hancock
+Hanover Village
+Harbor Beach
+Harbor Springs
+Harper Woods
+Harrietta Village
+Harrison
+Harrison
+Harrisville
+Hart
+Hartford
+Harvey
+Haslett
+Hastings
+Hazel Park
+Hemlock
+Hersey Village
+Hesperia Village
+Highland Park
+Hillman Village
+Hillsdale
+Holland
+Holly Village
+Holt
+Homer Village
+Honor Village
+Hopkins Village
+Houghton
+Houghton Lake
+Howard City Village
+Howell
+Hubbard Lake
+Hubbardston Village
+Hubbell
+Hudson
+Hudsonville
+Huntington Woods
+Imlay City
+Indian River
+Inkster
+Ionia
+Iron Mountain
+Iron River
+Ironwood
+Ishpeming
+Ithaca
+Jackson
+Jenison
+Jonesville Village
+Kalamazoo
+Kaleva Village
+Kalkaska Village
+Keego Harbor
+Kent City Village
+Kentwood
+Kinde Village
+Kingsford
+Kingsley Village
+Kingston Village
+K. I. Sawyer Afb
+Laingsburg
+Lake Angelus
+Lake Ann Village
+Lake City
+Lake Fenton
+Lake Linden Village
+Lake Michigan Beach
+Lake Odessa Village
+Lake Orion Village
+Lakeview Village
+Lakewood Club Village
+Lambertville
+L'anse Village
+Lansing
+Lapeer
+Lathrup Village
+Laurium Village
+Lawrence Village
+Lawton Village
+Lennon Village
+Leonard Village
+Le Roy Village
+Leslie
+Level Park-oak Park
+Lewiston
+Lexington Village
+Lincoln Village
+Lincoln Park
+Linden
+Litchfield
+Livonia
+Lost Lake Woods
+Lowell
+Ludington
+Luna Pier
+Luther Village
+Lyons Village
+Mcbain
+Mcbride Village
+Mackinac Island
+Mackinaw City Village
+Madison Heights
+Mancelona Village
+Manchester Village
+Manistee
+Manistique
+Manitou Beach-devils Lake
+Manton
+Maple Rapids Village
+Marcellus Village
+Marine City
+Marion Village
+Marlette
+Marquette
+Marshall
+Martin Village
+Marysville
+Mason
+Mattawan Village
+Maybee Village
+Mayville Village
+Mecosta Village
+Melvin Village
+Melvindale
+Memphis
+Mendon Village
+Menominee
+Merrill Village
+Mesick Village
+Metamora Village
+Michiana Village
+Michigamme
+Michigan Center
+Middletown
+Middleville Village
+Midland
+Milan
+Milford Village
+Millersburg Village
+Millington Village
+Minden City Village
+Mineral Hills Village
+Mio
+Monroe
+Montague
+Montgomery Village
+Montrose
+Morenci
+Morley Village
+Morrice Village
+Mount Clemens
+Mount Morris
+Mount Pleasant
+Muir Village
+Mulliken Village
+Munising
+Muskegon
+Muskegon Heights
+Napoleon
+Nashville Village
+Negaunee
+Newaygo
+New Baltimore
+Newberry Village
+New Buffalo
+New Era Village
+New Haven Village
+New Lothrop Village
+Niles
+North Adams Village
+North Branch Village
+North Muskegon
+Northport Village
+Northview
+Northville
+Norton Shores
+Norway
+Novi
+Oakley Village
+Oak Park
+Okemos
+Olivet
+Omer
+Onaway
+Onekama Village
+Onsted Village
+Ontonagon Village
+Orchard Lake Village
+Ortonville Village
+Oscoda
+Ossineke
+Otisville Village
+Otsego
+Otter Lake Village
+Ovid Village
+Owendale Village
+Owosso
+Oxford Village
+Palmer
+Parchment
+Parma Village
+Paw Paw Village
+Paw Paw Lake
+Pearl Beach
+Peck Village
+Pellston Village
+Pentwater Village
+Perrinton Village
+Perry
+Petersburg
+Petoskey
+Pewamo Village
+Pierson Village
+Pigeon Village
+Pinckney Village
+Pinconning
+Plainwell
+Pleasant Ridge
+Plymouth
+Plymouth Township
+Pontiac
+Portage
+Port Austin Village
+Port Hope Village
+Port Huron
+Portland
+Port Sanilac Village
+Posen Village
+Potterville
+Powers Village
+Prescott Village
+Prudenville
+Quincy Village
+Quinnesec
+Ravenna Village
+Reading
+Redford
+Reed City
+Reese Village
+Republic
+Richland Village
+Richmond
+River Rouge
+Riverview
+Robin Glen-indiantown
+Rochester
+Rochester Hills
+Rockford
+Rockwood
+Rogers City
+Romeo Village
+Romulus
+Roosevelt Park
+Roscommon Village
+Rosebush Village
+Rose City
+Roseville
+Rothbury Village
+Royal Oak
+Saginaw
+Saginaw Township North
+Saginaw Township South
+St. Charles Village
+St. Clair
+St. Clair Shores
+St. Helen
+St. Ignace
+St. Johns
+St. Joseph
+St. Louis
+Saline
+Sand Lake Village
+Sandusky
+Sanford Village
+Saranac Village
+Saugatuck
+Sault Ste. Marie
+Schoolcraft Village
+Scottville
+Sebewaing Village
+Shelby
+Shelby Village
+Shepherd Village
+Sheridan Village
+Sherwood Village
+Shields
+Shoreham Village
+Shorewood-tower Hills-harbert
+Skidway Lake
+Southfield
+Southgate
+South Gull Lake
+South Haven
+South Lyon
+South Monroe
+South Range Village
+South Rockwood Village
+Sparta Village
+Spring Arbor
+Springfield
+Spring Lake Village
+Springport Village
+Stambaugh
+Standish
+Stanton
+Stanwood Village
+Stephenson
+Sterling Village
+Sterling Heights
+Stevensville Village
+Stockbridge Village
+Stony Point
+Sturgis
+Sunfield Village
+Suttons Bay Village
+Swartz Creek
+Sylvan Lake
+Tawas City
+Taylor
+Tecumseh
+Tekonsha Village
+Temperance
+Thompsonville Village
+Three Oaks Village
+Three Rivers
+Traverse City
+Trenton
+Trowbridge Park
+Troy
+Turner Village
+Tustin Village
+Twining Village
+Twin Lake
+Ubly Village
+Union City Village
+Unionville Village
+Utica
+Vandalia Village
+Vanderbilt Village
+Vandercook Lake
+Vassar
+Vermontville Village
+Vernon Village
+Vicksburg Village
+Village Of Clarkston
+Village Of Lake Isabella Village
+Wakefield
+Waldron Village
+Walker
+Walkerville Village
+Walled Lake
+Warren
+Waterford
+Watervliet
+Waverly
+Wayland
+Wayne
+Webberville Village
+Weidman
+West Bloomfield Township
+West Branch
+West Ishpeming
+Westland
+West Monroe
+Westphalia Village
+Westwood
+White Cloud
+Whitehall
+White Pigeon Village
+Whitmore Lake
+Whittemore
+Williamston
+Wixom
+Wolf Lake
+Wolverine Village
+Wolverine Lake Village
+Woodhaven
+Woodland Village
+Woodland Beach
+Wyandotte
+Wyoming
+Yale
+Ypsilanti
+Zeeland
+Zilwaukee

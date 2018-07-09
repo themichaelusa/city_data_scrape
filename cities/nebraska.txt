@@ -1,0 +1,537 @@
+Abie Village
+Adams Village
+Ainsworth
+Albion
+Alda Village
+Alexandria Village
+Allen Village
+Alliance
+Alma
+Alvo Village
+Amherst Village
+Anoka Village
+Anselmo Village
+Ansley Village
+Arapahoe
+Arcadia Village
+Arlington Village
+Arnold Village
+Arthur Village
+Ashland
+Ashton Village
+Atkinson
+Atlanta Village
+Auburn
+Aurora
+Avoca Village
+Axtell Village
+Ayr Village
+Bancroft Village
+Barada Village
+Barneston Village
+Bartlett Village
+Bartley Village
+Bassett
+Battle Creek
+Bayard
+Bazile Mills Village
+Beatrice
+Beaver City
+Beaver Crossing Village
+Bee Village
+Beemer Village
+Belden Village
+Belgrade Village
+Bellevue
+Bellwood Village
+Belvidere Village
+Benedict Village
+Benkelman
+Bennet Village
+Bennington
+Bertrand Village
+Berwyn Village
+Big Springs Village
+Bladen Village
+Blair
+Bloomfield
+Bloomington Village
+Blue Hill
+Blue Springs
+Boys Town Village
+Bradshaw Village
+Brady Village
+Brainard Village
+Brewster Village
+Bridgeport
+Bristow Village
+Broadwater Village
+Brock Village
+Broken Bow
+Brownville Village
+Brule Village
+Bruning Village
+Bruno Village
+Brunswick Village
+Burchard Village
+Burr Village
+Burton Village
+Burwell
+Bushnell Village
+Butte Village
+Byron Village
+Cairo Village
+Callaway Village
+Cambridge
+Campbell Village
+Carleton Village
+Carroll Village
+Cedar Bluffs Village
+Cedar Creek Village
+Cedar Rapids Village
+Center Village
+Central City
+Ceresco Village
+Chadron
+Chalco
+Chambers Village
+Chapman Village
+Chappell
+Chester Village
+Cisco
+Clarks Village
+Clarkson
+Clatonia Village
+Clay Center
+Clearwater Village
+Clinton Village
+Cody Village
+Coleridge Village
+Colon Village
+Columbus
+Comstock Village
+Concord Village
+Cook Village
+Cordova Village
+Cornlea Village
+Cortland Village
+Cotesfield Village
+Cowles Village
+Cozad
+Crab Orchard Village
+Craig Village
+Crawford
+Creighton
+Creston Village
+Crete
+Crofton
+Crookston Village
+Culbertson Village
+Curtis
+Cushing Village
+Dakota City
+Dalton Village
+Danbury Village
+Dannebrog Village
+Davenport Village
+Davey Village
+David City
+Dawson Village
+Daykin Village
+Decatur Village
+Denton Village
+Deshler
+Deweese Village
+De Witt Village
+Diller Village
+Dix Village
+Dixon Village
+Dodge Village
+Doniphan Village
+Dorchester Village
+Douglas Village
+Du Bois Village
+Dunbar Village
+Duncan Village
+Dunning Village
+Dwight Village
+Eagle Village
+Eddyville Village
+Edgar
+Edison Village
+Elba Village
+Elgin
+Elk Creek Village
+Elkhorn
+Elm Creek Village
+Elmwood Village
+Elsie Village
+Elwood Village
+Elyria Village
+Emerson Village
+Emmet Village
+Endicott Village
+Ericson Village
+Eustis Village
+Ewing Village
+Exeter Village
+Fairbury
+Fairfield
+Fairmont Village
+Falls City
+Farnam Village
+Farwell Village
+Filley Village
+Firth Village
+Fordyce Village
+Fort Calhoun
+Foster Village
+Franklin
+Fremont
+Friend
+Fullerton
+Funk Village
+Gandy Village
+Garland Village
+Garrison Village
+Geneva
+Genoa
+Gering
+Gibbon
+Gilead Village
+Giltner Village
+Glenvil Village
+Goehner Village
+Gordon
+Gothenburg
+Grafton Village
+Grand Island
+Grant
+Greeley Center Village
+Greenwood Village
+Gresham Village
+Gretna
+Gross Village
+Guide Rock Village
+Gurley Village
+Hadar Village
+Haigler Village
+Hallam Village
+Halsey Village
+Hamlet Village
+Hampton Village
+Harbine Village
+Hardy Village
+Harrisburg
+Harrison Village
+Hartington
+Harvard
+Hastings
+Hayes Center Village
+Hay Springs Village
+Hazard Village
+Heartwell Village
+Hebron
+Hemingford Village
+Henderson
+Hendley Village
+Henry Village
+Herman Village
+Hershey Village
+Hickman
+Hildreth Village
+Holbrook Village
+Holdrege
+Holstein Village
+Homer Village
+Hooper
+Hordville Village
+Hoskins Village
+Howard City Village
+Howells Village
+Hubbard Village
+Hubbell Village
+Humboldt
+Humphrey
+Huntley Village
+Hyannis Village
+Imperial
+Indianola
+Inglewood Village
+Inman Village
+Ithaca Village
+Jackson Village
+Jansen Village
+Johnson Village
+Johnstown Village
+Julian Village
+Juniata Village
+Kearney
+Kenesaw Village
+Kennard Village
+Kilgore Village
+Kimball
+Lamar Village
+Laurel
+La Vista
+Lawrence Village
+Lebanon Village
+Leigh Village
+Leshara Village
+Lewellen Village
+Lewiston Village
+Lexington
+Liberty Village
+Lincoln
+Lindsay Village
+Linwood Village
+Litchfield Village
+Lodgepole Village
+Long Pine
+Loomis Village
+Lorton Village
+Louisville Village
+Loup City
+Lushton Village
+Lyman Village
+Lynch Village
+Lyons
+Mccook
+Mccool Junction Village
+Mcgrew Village
+Mclean Village
+Macy
+Madison
+Madrid Village
+Magnet Village
+Malcolm Village
+Malmo Village
+Manley Village
+Marquette Village
+Martinsburg Village
+Maskell Village
+Mason City Village
+Maxwell Village
+Maywood Village
+Mead Village
+Meadow Grove Village
+Melbeta Village
+Memphis Village
+Merna Village
+Merriman Village
+Milford
+Miller Village
+Milligan Village
+Minatare
+Minden
+Mitchell
+Monowi Village
+Monroe Village
+Moorefield Village
+Morrill Village
+Morse Bluff Village
+Mullen Village
+Murdock Village
+Murray Village
+Naper Village
+Naponee Village
+Nebraska City
+Nehawka Village
+Neligh
+Nelson
+Nemaha Village
+Nenzel Village
+Newcastle Village
+Newman Grove
+Newport Village
+Nickerson Village
+Niobrara Village
+Nora Village
+Norfolk
+Norman Village
+North Bend
+North Loup Village
+North Platte
+Oak Village
+Oakdale Village
+Oakland
+Obert Village
+Oconto Village
+Octavia Village
+Odell Village
+Offutt Afb
+Ogallala
+Ohiowa Village
+Omaha
+O'neill
+Ong Village
+Orchard Village
+Ord
+Orleans Village
+Osceola
+Oshkosh
+Osmond
+Otoe Village
+Overton Village
+Oxford Village
+Page Village
+Palisade Village
+Palmer Village
+Palmyra Village
+Panama Village
+Papillion
+Pawnee City
+Paxton Village
+Pender Village
+Peru
+Petersburg Village
+Phillips Village
+Pickrell Village
+Pierce
+Pilger Village
+Pine Ridge
+Plainview
+Platte Center Village
+Plattsmouth
+Pleasant Dale Village
+Pleasanton Village
+Plymouth Village
+Polk Village
+Ponca
+Potter Village
+Prague Village
+Preston Village
+Primrose Village
+Prosser Village
+Ragan Village
+Ralston
+Randolph
+Ravenna
+Raymond Village
+Red Cloud
+Republican City Village
+Reynolds Village
+Richland Village
+Rising City Village
+Riverdale Village
+Riverton Village
+Roca Village
+Rockville Village
+Rogers Village
+Rosalie Village
+Roseland Village
+Royal Village
+Rulo Village
+Rushville
+Ruskin Village
+St. Edward
+St. Helena Village
+St. Paul
+Salem Village
+Santee Village
+Sargent
+Saronville Village
+Schuyler
+Scotia Village
+Scottsbluff
+Scribner
+Seneca Village
+Seward
+Shelby Village
+Shelton Village
+Shickley Village
+Sholes Village
+Shubert Village
+Sidney
+Silver Creek Village
+Smithfield Village
+Snyder Village
+South Bend Village
+South Sioux City
+Spalding Village
+Spencer Village
+Sprague Village
+Springfield
+Springview Village
+Stamford Village
+Stanton
+Staplehurst Village
+Stapleton Village
+Steele City Village
+Steinauer Village
+Stella Village
+Sterling Village
+Stockham Village
+Stockville Village
+Strang Village
+Stratton Village
+Stromsburg
+Stuart Village
+Sumner Village
+Superior
+Surprise Village
+Sutherland Village
+Sutton
+Swanton Village
+Syracuse
+Table Rock Village
+Talmage Village
+Tarnov Village
+Taylor Village
+Tecumseh
+Tekamah
+Terrytown Village
+Thayer Village
+Thedford Village
+Thurston Village
+Tilden
+Tobias Village
+Trenton Village
+Trumbull Village
+Uehling Village
+Ulysses Village
+Unadilla Village
+Union Village
+Upland Village
+Utica Village
+Valentine
+Valley
+Valparaiso Village
+Venango Village
+Verdel Village
+Verdigre Village
+Verdon Village
+Virginia Village
+Waco Village
+Wahoo
+Wakefield
+Wallace Village
+Walthill Village
+Washington Village
+Waterbury Village
+Waterloo Village
+Wauneta Village
+Wausa Village
+Waverly
+Wayne
+Weeping Water
+Wellfleet Village
+Western Village
+Weston Village
+West Point
+Whitney Village
+Wilber
+Wilcox Village
+Wilsonville Village
+Winnebago Village
+Winnetoon Village
+Winside Village
+Winslow Village
+Wisner
+Wolbach Village
+Wood Lake Village
+Wood River
+Wymore
+Wynot Village
+York
+Yutan

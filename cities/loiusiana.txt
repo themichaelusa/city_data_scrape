@@ -1,0 +1,398 @@
+Abbeville
+Abita Springs
+Addis
+Albany Village
+Alexandria
+Ama
+Amelia
+Amite City
+Anacoco Village
+Angie Village
+Arabi
+Arcadia
+Arnaudville
+Ashland Village
+Athens Village
+Atlanta Village
+Avondale
+Baker
+Baldwin
+Ball
+Barataria
+Basile
+Baskin Village
+Bastrop
+Baton Rouge
+Bayou Cane
+Bayou Gauche
+Bayou Vista
+Belcher Village
+Belle Chasse
+Belle Rose
+Benton
+Bernice
+Berwick
+Bienville Village
+Blanchard
+Bogalusa
+Bonita Village
+Boothville-venice
+Bossier City
+Boutte
+Boyce
+Breaux Bridge
+Bridge City
+Broussard
+Brownfields
+Brownsville-bawcomville
+Brusly
+Bryceland Village
+Bunkie
+Buras-triumph
+Calvin Village
+Cameron
+Campti
+Cankton Village
+Carencro
+Carlyss
+Castor Village
+Cecilia
+Chackbay
+Chalmette
+Charenton
+Chataignier Village
+Chatham
+Chauvin
+Cheneyville
+Choudrant Village
+Church Point
+Claiborne
+Clarence Village
+Clarks Village
+Clayton
+Clinton
+Colfax
+Collinston Village
+Columbia
+Converse Village
+Cottonport
+Cotton Valley
+Coushatta
+Covington
+Crowley
+Cullen
+Cut Off
+Delcambre
+Delhi
+Delta Village
+Denham Springs
+Dequincy
+De Ridder
+Des Allemands
+Destrehan
+Deville
+Dixie Inn Village
+Dodson Village
+Donaldsonville
+Downsville Village
+Doyline Village
+Dry Prong Village
+Dubach
+Dubberly Village
+Dulac
+Duson
+East Hodge Village
+Eastwood
+Eden Isle
+Edgard
+Edgefield Village
+Elizabeth
+Elmwood
+Elton
+Empire
+Epps Village
+Erath
+Eros
+Estelle
+Estherwood Village
+Eunice
+Evergreen
+Farmerville
+Fenton Village
+Ferriday
+Fisher Village
+Florien Village
+Folsom Village
+Fordoche
+Forest Village
+Forest Hill Village
+Fort Polk North
+Fort Polk South
+Franklin
+Franklinton
+French Settlement Village
+Galliano
+Gardere
+Garyville
+Georgetown Village
+Gibsland
+Gilbert Village
+Gilliam Village
+Glenmora
+Golden Meadow
+Goldonna Village
+Gonzales
+Grambling
+Gramercy
+Grand Cane Village
+Grand Coteau
+Grand Isle
+Gray
+Grayson Village
+Greensburg
+Greenwood
+Gretna
+Grosse Tete Village
+Gueydan
+Hackberry
+Hahnville
+Hall Summit Village
+Hammond
+Harahan
+Harrisonburg Village
+Harvey
+Haughton
+Haynesville
+Heflin Village
+Henderson
+Hessmer Village
+Hodge Village
+Homer
+Hornbeck
+Hosston Village
+Houma
+Ida Village
+Independence
+Inniswold
+Iota
+Iowa
+Jackson
+Jamestown Village
+Jeanerette
+Jean Lafitte
+Jefferson
+Jena
+Jennings
+Jonesboro
+Jonesville
+Junction City Village
+Kaplan
+Keachi
+Kenner
+Kentwood
+Kilbourne Village
+Killian Village
+Killona
+Kinder
+Krotz Springs
+Labadieville
+Lacombe
+Lafayette
+Lafitte
+Lake Arthur
+Lake Charles
+Lake Providence
+Laplace
+Larose
+Lecompte
+Leesville
+Leonville
+Lillie Village
+Lisbon Village
+Livingston
+Livonia
+Lockport
+Logansport
+Longstreet Village
+Loreauville Village
+Lucky Village
+Luling
+Lutcher
+Lydia
+Mcnary Village
+Madisonville
+Mamou
+Mandeville
+Mangham
+Mansfield
+Mansura
+Many
+Maringouin
+Marion
+Marksville
+Marrero
+Martin Village
+Mathews
+Maurice Village
+Melville
+Meraux
+Mermentau Village
+Mer Rouge Village
+Merrydale
+Merryville
+Metairie
+Midway
+Minden
+Monroe
+Montegut
+Montgomery
+Monticello
+Montpelier Village
+Montz
+Mooringsport
+Moreauville Village
+Morgan City
+Morganza Village
+Morse Village
+Moss Bluff
+Mound Village
+Mount Lebanon
+Napoleonville Village
+Natalbany
+Natchez Village
+Natchitoches
+Newellton
+New Iberia
+New Llano
+New Orleans
+New Roads
+New Sarpy
+Noble Village
+Norco
+North Hodge Village
+North Vacherie
+Norwood Village
+Oakdale
+Oak Grove
+Oak Hills Place
+Oak Ridge Village
+Oberlin
+Oil City
+Old Jefferson
+Olla
+Opelousas
+Paincourtville
+Palmetto Village
+Paradis
+Parks Village
+Patterson
+Pearl River
+Pierre Part
+Pine Prairie Village
+Pineville
+Pioneer Village
+Plain Dealing
+Plaquemine
+Plaucheville Village
+Pleasant Hill Village
+Pollock
+Ponchatoula
+Port Allen
+Port Barre
+Port Sulphur
+Port Vincent Village
+Powhatan Village
+Poydras
+Prien
+Provencal Village
+Quitman Village
+Raceland
+Rayne
+Rayville
+Red Chute
+Reeves Village
+Reserve
+Richmond Village
+Richwood
+Ridgecrest
+Ringgold
+River Ridge
+Robeline Village
+Rodessa Village
+Rosedale Village
+Roseland
+Rosepine
+Ruston
+St. Francisville
+St. Gabriel
+St. Joseph
+St. Martinville
+St. Rose
+Saline Village
+Sarepta
+Schriever
+Scott
+Shenandoah
+Shongaloo Village
+Shreveport
+Sibley
+Sicily Island Village
+Sikes Village
+Simmesport
+Simpson Village
+Simsboro Village
+Slaughter Village
+Slidell
+Sorrento
+South Mansfield Village
+South Vacherie
+Spearsville Village
+Springfield
+Springhill
+Stanley Village
+Sterlington
+Stonewall
+Sulphur
+Sun Village
+Sunset
+Supreme
+Swartz
+Taft
+Tallulah
+Tangipahoa Village
+Terrytown
+Thibodaux
+Tickfaw Village
+Timberlane
+Tullos
+Turkey Creek Village
+Urania
+Varnado Village
+Vidalia
+Vienna
+Village St. George
+Ville Platte
+Vinton
+Violet
+Vivian
+Waggaman
+Walker
+Wallace
+Washington
+Waterproof
+Welsh
+West Ferriday
+Westlake
+Westminster
+West Monroe
+Westwego
+White Castle
+Wilson Village
+Winnfield
+Winnsboro
+Wisner
+Woodmere
+Woodworth
+Youngsville
+Zachary
+Zwolle

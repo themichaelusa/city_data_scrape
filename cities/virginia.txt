@@ -1,0 +1,371 @@
+Abingdon
+Accomac
+Adwolf
+Alberta
+Alexandria
+Altavista
+Amherst
+Annandale
+Appalachia
+Appomattox
+Aquia Harbour
+Arlington
+Ashland
+Atkins
+Bailey's Crossroads
+Bassett
+Basye-bryce Mountain
+Bedford
+Belle Haven
+Belle Haven
+Bellwood
+Bensley
+Berryville
+Big Stone Gap
+Blacksburg
+Blackstone
+Bloxom
+Bluefield
+Blue Ridge
+Bon Air
+Boones Mill
+Bowling Green
+Boyce
+Boydton
+Boykins
+Branchville
+Bridgewater
+Bristol
+Broadway
+Brodnax
+Brookneal
+Buchanan
+Buena Vista
+Bull Run
+Burke
+Burkeville
+Cana
+Cape Charles
+Capron
+Castlewood
+Cave Spring
+Cedar Bluff
+Centreville
+Chamberlayne
+Chantilly
+Charlotte Court House
+Charlottesville
+Chase City
+Chatham
+Chatmoss
+Cheriton
+Chesapeake
+Chester
+Chesterfield Court House
+Chilhowie
+Chincoteague
+Christiansburg
+Claremont
+Clarksville
+Claypool Hill
+Cleveland
+Clifton
+Clifton Forge
+Clinchco
+Clinchport
+Clintwood
+Cloverdale
+Coeburn
+Collinsville
+Colonial Beach
+Colonial Heights
+Columbia
+Courtland
+Covington
+Craigsville
+Crewe
+Crimora
+Crozet
+Culpeper
+Dahlgren
+Dale City
+Daleville
+Damascus
+Danville
+Dayton
+Dendron
+Dillwyn
+Dooms
+Drakes Branch
+Dryden
+Dublin
+Duffield
+Dumbarton
+Dumfries
+Dungannon
+Dunn Loring
+East Highland Park
+Eastville
+Edinburg
+Elkton
+Elliston-lafayette
+Emory-meadow View
+Emporia
+Ettrick
+Ewing
+Exmore
+Fairfax
+Fairlawn
+Fairview Beach
+Falls Church
+Falmouth
+Fancy Gap
+Farmville
+Ferrum
+Fieldale
+Fincastle
+Fishersville
+Floyd
+Forest
+Fort Belvoir
+Fort Chiswell
+Fort Hunt
+Fort Lee
+Franconia
+Franklin
+Fredericksburg
+Fries
+Front Royal
+Gainesville
+Galax
+Gate City
+Glade Spring
+Glasgow
+Glen Allen
+Glen Lyn
+Gloucester Courthouse
+Gloucester Point
+Gordonsville
+Goshen
+Great Falls
+Greenville
+Gretna
+Grottoes
+Groveton
+Grundy
+Halifax
+Hallwood
+Hamilton
+Hampden Sydney
+Hampton
+Harrisonburg
+Haymarket
+Haysi
+Herndon
+Highland Springs
+Hillsboro
+Hillsville
+Hollins
+Honaker
+Hopewell
+Horse Pasture
+Huntington
+Hurt
+Hybla Valley
+Idylwood
+Independence
+Iron Gate
+Irvington
+Ivor
+Jarratt
+Jefferson
+Jolivue
+Jonesville
+Keller
+Kenbridge
+Keokee
+Keysville
+Kilmarnock
+La Crosse
+Lake Barcroft
+Lake Monticello
+Lake Ridge
+Lakeside
+Laurel
+Laurel Park
+Lawrenceville
+Laymantown
+Lebanon
+Leesburg
+Lexington
+Lincolnia
+Linton Hall
+Loch Lomond
+Lorton
+Louisa
+Lovettsville
+Low Moor
+Luray
+Lynchburg
+Lyndhurst
+Mckenney
+Mclean
+Madison
+Madison Heights
+Manassas
+Manassas Park
+Mantua
+Marion
+Martinsville
+Massanutten
+Matoaca
+Max Meadows
+Mechanicsville
+Melfa
+Merrifield
+Merrimac
+Middleburg
+Middletown
+Mineral
+Montclair
+Monterey
+Montrose
+Montross
+Mount Crawford
+Mount Jackson
+Mount Vernon
+Narrows
+Nassawadox
+New Castle
+Newington
+New Market
+Newport News
+Newsoms
+Nickelsville
+Nokesville
+Norfolk
+North Shore
+North Springfield
+Norton
+Oak Level
+Oakton
+Occoquan
+Onancock
+Onley
+Orange
+Painter
+Pamplin City
+Parksley
+Patrick Springs
+Pearisburg
+Pembroke
+Penhook
+Pennington Gap
+Petersburg
+Phenix
+Pimmit Hills
+Pocahontas
+Poquoson
+Port Royal
+Portsmouth
+Pound
+Pulaski
+Purcellville
+Quantico
+Quantico Station
+Radford
+Raven
+Remington
+Reston
+Rich Creek
+Richlands
+Richmond
+Ridgeway
+Roanoke
+Rocky Mount
+Rose Hill Cdp (fairfax County)
+Rose Hill Cdp (lee County)
+Round Hill
+Rural Retreat
+Rushmere
+Rustburg
+St. Charles
+St. Paul
+Salem
+Saltville
+Sandy Level
+Saxis
+Scottsburg
+Scottsville
+Selma
+Seven Corners
+Shawsville
+Shenandoah
+Sherando
+Short Pump
+Smithfield
+South Boston
+South Hill
+Spotsylvania Courthouse
+Springfield
+Stanardsville
+Stanley
+Stanleytown
+Staunton
+Stephens City
+Stony Creek
+Strasburg
+Stuart
+Stuarts Draft
+Sudley
+Suffolk
+Sugar Grove
+Surry
+Tangier
+Tappahannock
+Tazewell
+The Plains
+Timberlake
+Timberville
+Toms Brook
+Triangle
+Troutdale
+Troutville
+Tuckahoe
+Tysons Corner
+Union Hall
+Urbanna
+Vansant
+Verona
+Victoria
+Vienna
+Villa Heights
+Vinton
+Virgilina
+Virginia Beach
+Wachapreague
+Wakefield
+Warrenton
+Warsaw
+Washington
+Waverly
+Waynesboro
+Weber City
+West Gate
+Westlake Corner
+West Point
+West Springfield
+Weyers Cave
+White Stone
+Williamsburg
+Winchester
+Windsor
+Wise
+Wolf Trap
+Woodbridge
+Woodlawn
+Woodstock
+Wyndham
+Wytheville
+Yorkshire
+Yorktown

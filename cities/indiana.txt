@@ -1,0 +1,601 @@
+Advance
+Akron
+Alamo
+Albany
+Albion
+Alexandria
+Alfordsville
+Alton
+Altona
+Ambia
+Amboy
+Amo
+Anderson
+Andrews
+Angola
+Arcadia
+Argos
+Ashley
+Atlanta
+Attica
+Auburn
+Aurora
+Austin
+Avilla
+Avon
+Bainbridge
+Bargersville
+Bass Lake
+Batesville
+Battle Ground
+Bedford
+Beech Grove
+Berne
+Bethany
+Beverly Shores
+Bicknell
+Birdseye
+Bloomfield
+Bloomingdale
+Bloomington
+Blountsville
+Bluffton
+Boonville
+Borden
+Boston
+Boswell
+Bourbon
+Brazil
+Bremen
+Bright
+Bristol
+Brook
+Brooklyn
+Brooksburg
+Brookston
+Brookville
+Brownsburg
+Brownstown
+Bruceville
+Bryant
+Buffalo
+Bunker Hill
+Burket
+Burlington
+Burnettsville
+Burns Harbor
+Butler
+Cadiz
+Cambridge City
+Camden
+Campbellsburg
+Cannelburg
+Cannelton
+Carbon
+Carlisle
+Carmel
+Carthage
+Cayuga
+Cedar Grove
+Cedar Lake
+Center Point
+Centerville
+Chalmers
+Chandler
+Charlestown
+Chesterfield
+Chesterton
+Chrisney
+Churubusco
+Cicero
+Clarks Hill
+Clarksville
+Clay City
+Claypool
+Clayton
+Clear Lake
+Clermont
+Clifford
+Clinton
+Cloverdale
+Coatesville
+Colfax
+Collegeville
+Columbia City
+Columbus
+Connersville
+Converse
+Corunna
+Corydon
+Country Club Heights
+Covington
+Crandall
+Crane
+Crawfordsville
+Cromwell
+Crothersville
+Crown Point
+Crows Nest
+Culver
+Cumberland
+Cynthiana
+Dale
+Daleville
+Dana
+Danville
+Darlington
+Darmstadt
+Dayton
+Decatur
+Decker
+Delphi
+De Motte
+Denver
+Dillsboro
+Dublin
+Dugger
+Dune Acres
+Dunkirk
+Dunlap
+Dunreith
+Dupont
+Dyer
+Earl Park
+East Chicago
+East Germantown
+Eaton
+Economy
+Edgewood
+Edinburgh
+Edwardsport
+Elberfeld
+Elizabeth
+Elizabethtown
+Elkhart
+Ellettsville
+Elnora
+Elwood
+English
+Etna Green
+Evansville
+Fairland
+Fairmount
+Fairview Park
+Farmersburg
+Farmland
+Ferdinand
+Fillmore
+Fishers
+Flora
+Fort Branch
+Fortville
+Fort Wayne
+Fountain City
+Fowler
+Fowlerton
+Francesville
+Francisco
+Frankfort
+Franklin
+Frankton
+Fredericksburg
+Fremont
+French Lick
+Fulton
+Galena
+Galveston
+Garrett
+Gary
+Gas City
+Gaston
+Geneva
+Gentryville
+Georgetown
+Georgetown
+Glenwood
+Goodland
+Goshen
+Gosport
+Grabill
+Grandview
+Granger
+Greencastle
+Greendale
+Greenfield
+Greensboro
+Greensburg
+Greens Fork
+Greentown
+Greenville
+Greenwood
+Griffin
+Griffith
+Grissom Afb
+Gulivoire Park
+Hagerstown
+Hamilton
+Hamlet
+Hammond
+Hanover
+Hardinsburg
+Harmony
+Hartford City
+Hartsville
+Haubstadt
+Hazleton
+Hebron
+Henryville
+Hidden Valley
+Highland
+Highland
+Hillsboro
+Hobart
+Holland
+Holton
+Homecroft
+Hope
+Hudson
+Huntertown
+Huntingburg
+Huntington
+Hymera
+Indianapolis City (balance)
+Indian Heights
+Indian Village
+Ingalls
+Jamestown
+Jasonville
+Jasper
+Jeffersonville
+Jonesboro
+Jonesville
+Kempton
+Kendallville
+Kennard
+Kentland
+Kewanna
+Kingman
+Kingsbury
+Kingsford Heights
+Kirklin
+Knightstown
+Knightsville
+Knox
+Kokomo
+Koontz Lake
+Kouts
+Laconia
+La Crosse
+Ladoga
+Lafayette
+La Fontaine
+Lagrange
+Lagro
+Lake Dalecarlia
+Lakes Of The Four Seasons
+Lake Station
+Lake Village
+Lakeville
+Lanesville
+La Paz
+Lapel
+La Porte
+Larwill
+Laurel
+Lawrence
+Lawrenceburg
+Leavenworth
+Lebanon
+Leesburg
+Leo-cedarville
+Lewisville
+Liberty
+Ligonier
+Linden
+Linton
+Little York
+Livonia
+Lizton
+Logansport
+Long Beach
+Loogootee
+Losantville
+Lowell
+Lynn
+Lynnville
+Lyons
+Mccordsville
+Mackey
+Macy
+Madison
+Marengo
+Marion
+Markle
+Markleville
+Marshall
+Martinsville
+Matthews
+Mauckport
+Mecca
+Medaryville
+Medora
+Mellott
+Melody Hill
+Memphis
+Mentone
+Meridian Hills
+Merom
+Merrillville
+Mexico
+Michiana Shores
+Michigan City
+Michigantown
+Middlebury
+Middletown
+Milan
+Milford Town (decatur County)
+Milford Town (kosciusko County)
+Millersburg
+Millhousen
+Milltown
+Milton
+Mishawaka
+Mitchell
+Modoc
+Monon
+Monroe
+Monroe City
+Monroeville
+Monrovia
+Monterey
+Montezuma
+Montgomery
+Monticello
+Montpelier
+Mooreland
+Moores Hill
+Mooresville
+Morgantown
+Morocco
+Morristown
+Mount Auburn
+Mount Ayr
+Mount Carmel
+Mount Etna
+Mount Summit
+Mount Vernon
+Mulberry
+Muncie
+Munster
+Napoleon
+Nappanee
+Nashville
+New Albany
+New Amsterdam
+Newberry
+Newburgh
+New Carlisle
+New Castle
+New Chicago
+New Harmony
+New Haven
+New Market
+New Middletown
+New Palestine
+New Paris
+New Pekin
+Newpoint
+Newport
+New Richmond
+New Ross
+Newtown
+New Washington
+New Whiteland
+Noblesville
+North Crows Nest
+North Judson
+North Liberty
+North Manchester
+North Salem
+North Terre Haute
+North Vernon
+North Webster
+Norway
+Oakland City
+Oak Park
+Oaktown
+Odon
+Ogden Dunes
+Oldenburg
+Onward
+Oolitic
+Orestes
+Orland
+Orleans
+Osceola
+Osgood
+Ossian
+Otterbein
+Owensville
+Oxford
+Palmyra
+Paoli
+Paragon
+Parker City
+Patoka
+Patriot
+Pendleton
+Pennville
+Perrysville
+Peru
+Petersburg
+Pierceton
+Pine Village
+Pittsboro
+Plainfield
+Plainville
+Plymouth
+Poneto
+Portage
+Porter
+Portland
+Poseyville
+Pottawattamie Park
+Princes Lakes
+Princeton
+Redkey
+Remington
+Rensselaer
+Reynolds
+Richmond
+Ridgeville
+Riley
+Rising Sun
+River Forest
+Roachdale
+Roann
+Roanoke
+Rochester
+Rockport
+Rockville
+Rocky Ripple
+Rome City
+Rosedale
+Roseland
+Roselawn
+Rossville
+Royal Center
+Rushville
+Russellville
+Russiaville
+St. Joe
+St. John
+St. Leon
+St. Paul
+Salamonia
+Salem
+Saltillo
+Sandborn
+San Pierre
+Santa Claus
+Saratoga
+Schererville
+Schneider
+Scottsburg
+Seelyville
+Sellersburg
+Selma
+Seymour
+Shadeland
+Shamrock Lakes
+Sharpsville
+Shelburn
+Shelbyville
+Sheridan
+Shipshewana
+Shirley
+Shoals
+Sidney
+Silver Lake
+Simonton Lake
+Somerville
+South Bend
+South Haven
+Southport
+South Whitley
+Speedway
+Spencer
+Spiceland
+Spring Grove
+Spring Hill
+Spring Lake
+Springport
+Spurgeon
+Star City
+State Line City
+Staunton
+Stilesville
+Stinesville
+Straughn
+Sullivan
+Sulphur Springs
+Summitville
+Sunman
+Swayzee
+Sweetser
+Switz City
+Syracuse
+Taylorsville
+Tell City
+Tennyson
+Terre Haute
+Thorntown
+Tipton
+Topeka
+Town Of Pines
+Trafalgar
+Trail Creek
+Tri-lakes
+Troy
+Ulen
+Union City
+Uniondale
+Universal
+Upland
+Utica
+Valparaiso
+Van Buren
+Veedersburg
+Vera Cruz
+Vernon
+Versailles
+Vevay
+Vincennes
+Wabash
+Wakarusa
+Walkerton
+Wallace
+Walton
+Wanatah
+Warren
+Warren Park
+Warsaw
+Washington
+Waterloo
+Waveland
+Waynetown
+West Baden Springs
+West College Corner
+Westfield
+West Harrison
+West Lafayette
+West Lebanon
+Westport
+West Terre Haute
+Westville
+Wheatfield
+Wheatland
+Whiteland
+Whitestown
+Whitewater
+Whiting
+Wilkinson
+Williams Creek
+Williamsport
+Winamac
+Winchester
+Windfall City
+Winfield
+Wingate
+Winona Lake
+Winslow
+Wolcott
+Wolcottville
+Woodburn
+Woodlawn Heights
+Worthington
+Wynnedale
+Yeoman
+Yorktown
+Zanesville
+Zionsville

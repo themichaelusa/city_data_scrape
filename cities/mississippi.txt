@@ -1,0 +1,329 @@
+Abbeville
+Aberdeen
+Ackerman
+Algoma
+Alligator
+Amory
+Anguilla
+Arcola
+Artesia
+Ashland
+Baldwyn
+Bassfield
+Batesville
+Bay St. Louis
+Bay Springs
+Beaumont
+Beauregard Village
+Belmont
+Belzoni
+Benoit
+Bentonia
+Beulah
+Big Creek Village
+Big Point
+Biloxi
+Blue Mountain
+Blue Springs Village
+Bogue Chitto
+Bolton
+Booneville
+Boyle
+Brandon
+Braxton Village
+Brookhaven
+Brooksville
+Bruce
+Bude
+Burnsville
+Byhalia
+Byram
+Caledonia
+Calhoun City
+Canton
+Carrollton
+Carthage
+Cary
+Centreville
+Charleston
+Chunky
+Clarksdale
+Cleveland
+Clinton
+Coahoma
+Coffeeville
+Coldwater
+Collins
+Collinsville
+Columbia
+Columbus
+Columbus Afb
+Como
+Conehatta
+Corinth
+Courtland
+Crawford
+Crenshaw
+Crosby
+Crowder
+Cruger
+Crystal Springs
+Decatur
+De Kalb
+Derma
+Diamondhead
+D'iberville
+D'lo
+Doddsville
+Drew
+Duck Hill
+Dumas
+Duncan
+Durant
+Ecru
+Eden Village
+Edwards
+Ellisville
+Enterprise
+Escatawpa
+Ethel
+Eupora
+Falcon
+Falkner
+Farmington
+Fayette
+Flora
+Florence
+Flowood
+Forest
+French Camp
+Friars Point
+Fulton
+Gattman Village
+Gautier
+Georgetown
+Glen
+Glendora Village
+Gloster
+Golden
+Goodman
+Greenville
+Greenwood
+Grenada
+Gulf Hills
+Gulf Park Estates
+Gulfport
+Gunnison
+Guntown
+Hatley
+Hattiesburg
+Hazlehurst
+Heidelberg
+Helena
+Hernando
+Hickory
+Hickory Flat
+Hickory Hills
+Hollandale
+Holly Springs
+Horn Lake
+Houston
+Hurley
+Indianola
+Inverness
+Isola
+Itta Bena
+Iuka
+Jackson
+Jonestown
+Jumpertown
+Kilmichael
+Kiln
+Kosciusko
+Kossuth Village
+Lake
+Lambert
+Latimer
+Laurel
+Leakesville
+Learned
+Leland
+Lena
+Lexington
+Liberty
+Long Beach
+Louin
+Louise
+Louisville
+Lucedale
+Lula
+Lumberton
+Lyman
+Lynchburg
+Lyon
+Maben
+Mccomb
+Mccool
+Mclain
+Macon
+Madison
+Magee
+Magnolia
+Mantachie
+Mantee Village
+Marietta
+Marion
+Marks
+Mathiston
+Mayersville
+Meadville
+Memphis Village
+Mendenhall
+Meridian
+Meridian Station
+Merigold
+Metcalfe
+Mize
+Monticello
+Montrose
+Moorhead
+Morgan City
+Morton
+Moss Point
+Mound Bayou
+Mount Olive
+Myrtle
+Natchez
+Nellieburg
+Nettleton
+New Albany
+New Augusta
+New Hebron
+New Hope
+New Houlka
+Newton
+North Carrollton
+North Tunica
+Noxapater
+Oakland
+Ocean Springs
+Okolona
+Olive Branch
+Osyka
+Oxford
+Pace
+Pachuta
+Paden Village
+Pascagoula
+Pass Christian
+Pearl
+Pearlington
+Pearl River
+Pelahatchie
+Petal
+Philadelphia
+Picayune
+Pickens
+Pittsboro Village
+Plantersville
+Polkville Village
+Pontotoc
+Pope Village
+Poplarville
+Port Gibson
+Potts Camp
+Prentiss
+Puckett Village
+Purvis
+Quitman
+Raleigh
+Raymond
+Redwater
+Renova
+Richland
+Richton
+Ridgeland
+Rienzi
+Ripley
+Rolling Fork
+Rosedale
+Roxie
+Ruleville
+St. Martin
+Sallis
+Saltillo
+Sandersville
+Sardis
+Satartia Village
+Saucier
+Schlater
+Scooba
+Sebastopol
+Seminary
+Senatobia
+Shannon
+Shaw
+Shelby
+Sherman
+Shoreline Park
+Shubuta
+Shuqualak
+Sidon
+Silver City
+Silver Creek
+Slate Springs Village
+Sledge
+Smithville
+Snow Lake Shores
+Soso
+Southaven
+Standing Pine
+Starkville
+State Line
+Stonewall
+Sturgis
+Summit
+Sumner
+Sumrall
+Sunflower
+Sylvarena Village
+Taylor Village
+Taylorsville
+Tchula
+Terry
+Thaxton
+Tillatoba
+Tishomingo
+Toccopola
+Tremont
+Tucker
+Tunica
+Tupelo
+Tutwiler
+Tylertown
+Union
+Utica
+Vaiden
+Vancleave
+Vardaman
+Verona
+Vicksburg
+Wade
+Walnut
+Walnut Grove
+Walthall Village
+Water Valley
+Waveland
+Waynesboro
+Webb
+Weir
+Wesson
+West
+West Hattiesburg
+West Point
+Wiggins
+Winona
+Winstonville
+Woodland Village
+Woodville
+Yazoo City
