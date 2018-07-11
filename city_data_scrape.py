@@ -1,6 +1,8 @@
 
 # IMPORTS 
 import csv
+import time
+import random
 import requests
 from bs4 import BeautifulSoup
 
@@ -11,12 +13,15 @@ ALL_FILES = ['alabama.txt', 'alaska.txt', 'arizona.txt', 'arkansas.txt', 'califo
 RACES = {'White alone': 'Pct_White', 'Hispanic':'Pct_Hispanic', 'Asian alone':'Pct_Asian', 'Two or more races':'Pct_Mixed', 'American Indian alone': 'Pct_Native American', 'Black alone':'Pct_Black', 'Native Hawaiian and OtherPacific Islander alone': 'Pct_Native Hawaiian/Pacific Islander', 'Other race alone':'Pct_Other'}
 LEGAL_STATES = ['Alaska', 'Oregon', 'Washington', 'California', 'Nevada', 'Colorado', 'Massachusetts', 'Maine', 'Vermont']
 
-STATE_CSV_COLNS = ['population', 'median_age', 'median_gross_rent', 'Pct_White', 'Pct_Hispanic', 'Pct_Mixed', 'Pct_Asian', 'Pct_Black', 'Pct_Native American', 'Pct_Other', 'mj_legal']
-ERR_CSV_COLNS = ['state', 'url', 'error']
-ERROR = (None, {'population': None, 'median_age': None, 'Pct_White': None, 'Pct_Hispanic': None, 'Pct_Mixed': None, 'Pct_Asian': None, 'Pct_Black': None, 'Pct_Native American': None, 'Pct_Other': None, 'median_gross_rent': None})
+STATE_CSV_COLNS = ['city', 'population', 'median_age', 'median_gross_rent', 'Pct_White', 'Pct_Hispanic', 'Pct_Mixed', 'Pct_Asian', 'Pct_Black', 'Pct_Native American', 'Pct_Other', 'mj_legal']
+ERR_CSV_COLNS = ['state', 'city', 'url', 'error']
+#ERROR = (None, {'population': None, 'median_age': None, 'Pct_White': None, 'Pct_Hispanic': None, 'Pct_Mixed': None, 'Pct_Asian': None, 'Pct_Black': None, 'Pct_Native American': None, 'Pct_Other': None, 'median_gross_rent': None})
 NUM_CITIES = 25149
 
 # MAIN 
+
+### URL FORMATTING METHODS
+
 def generate_urls():
 	url_list = []
 	for f, s in zip(ALL_FILES, ALL_STATES):
@@ -27,9 +32,9 @@ def generate_urls():
 	return (state_url for state_url in url_list)
 
 def format_url(state, city):
-	form_city = city.rstrip()
-	form_city = '-'.join(form_city.split(' '))
-	return (state, BASE_URL.format(form_city, state))
+	no_newline_city = city.rstrip()
+	form_city = '-'.join(no_newline_city.split(' '))
+	return (state, no_newline_city, BASE_URL.format(form_city, state))
 
 ### SCRAPED SITE PARSE METHODS
 
@@ -63,7 +68,7 @@ def get_prop_races_dict(soup):
 
 ### MAIN SCRAPE METHOD
 
-def get_city_data(state, url):
+def get_city_data(state, city, url):
 	page = requests.get(url)
 	soup = BeautifulSoup(page.text, 'html.parser')
 
@@ -83,25 +88,31 @@ def get_city_data(state, url):
 	raw_rent_text = soup.find(class_='median-rent').text
 	median_gross_rent = get_median_gross_rent(raw_rent_text)
 
-	final_dict = {}
+	final_dict = {'city': city}
 	final_dict.update(city_pop)
 	final_dict.update(median_age)
 	final_dict.update(prop_races_breakdown)
 	final_dict.update(median_gross_rent)
-	return (state, final_dict)
 
-def get_city_wrapper(state, url):
+	if state in LEGAL_STATES:
+		final_dict.update({'mj_legal': True})
+	else:
+		final_dict.update({'mj_legal': False})
+
+	return final_dict
+
+def get_city_wrapper(dir_path, state, city, url):
 	try:
-		return get_city_data(state, url)
+		data = get_city_data(state, city, url)
+		write_to_csv(dir_path, state, data)
 	except Exception as e:
-		write_to_err_log(state, url, e)
-		return ERROR
+		write_to_err_log(dir_path, state, city, url, e)
 
 ### CSV METHODS 
 
 def init_csv(path, name, fields):
 	full_path = '{}/{}.csv'.format(path, name)
-	with open(full_path, 'w+', newline='') as named_csv:
+	with open(full_path, 'w', newline='') as named_csv:
 	    writer = csv.DictWriter(named_csv, fieldnames=fields)
 	    writer.writeheader()
 
@@ -110,49 +121,38 @@ def init_state_csvs(dir_path):
 		init_csv(dir_path, state, STATE_CSV_COLNS)
 
 # pass generator for rows
-def write_to_csv(state, city_rows):
-	with open('{}.csv'.format(state), 'w+', newline='') as state_csv:
+def write_to_csv(dir_path, state, city_row):
+	full_path = '{}/{}.csv'.format(dir_path, state)
+	with open(full_path, 'a', newline='') as state_csv:
 		writer = csv.DictWriter(state_csv, fieldnames=STATE_CSV_COLNS)
-		writer.writeheader()
-
-		for city in city_rows:
-			if city is ERROR:
-				continue
-			writer.writerow(city)
+		writer.writerow(city_row)
 
 ### ERROR HANDLING METHODS
 
 def init_err_log(dir_path):
 	init_csv(dir_path, 'error_log', ERR_CSV_COLNS)
 
-def write_to_err_log(state, url, err):
-	with open('error_log.csv', 'w+', newline='') as err_csv:
-		writer = csv.DictWriter(state_csv, fieldnames=ERR_CSV_COLNS)
-		writer.writerow({'state': state, 'url': url, 'error': err})
+def write_to_err_log(dir_path, state, city, url, err):
+	full_path = '{}/error_log.csv'.format(dir_path)
+	with open(full_path, 'a', newline='') as err_csv:
+		writer = csv.DictWriter(err_csv, fieldnames=ERR_CSV_COLNS)
+		writer.writerow({'state': state, 'city': city, 'url': url, 'error': err})
 
 if __name__ == '__main__': 
 	
 	all_urls = generate_urls()
 	path = '/Users/michaelusa/Desktop/city_data'
-	#init_state_csvs(path)
-	#init_err_log(path)
+	init_err_log(path)
+	init_state_csvs(path)
 
+	sleep_count = 0
+	write_list = []
 	for city_meta in all_urls:
-		print(city_meta)
-		#d = get_city_data(*city_meta)
-		#break
-	"""
-	#d = get_city_data('Wisconsin', 'http://www.city-data.com/city/Hartford-Wisconsin.html')
-	#print(d)
-	#init_state_csvs()
-	#init_err_log()
-
-
-	
-
-
-
-
-
-
+		if sleep_count % 20 == 0:
+			sleep_time = random.randint(1,3)*1.6129
+			time.sleep(sleep_time)
+		
+		get_city_wrapper(path, *city_meta)
+		sleep_count += 1
+		break
 
