@@ -2,9 +2,15 @@
 # IMPORTS 
 import csv
 import time
+import socks
+import socket
 import random
+
 import requests
 from bs4 import BeautifulSoup
+from tqdm import tqdm
+
+from pytor import pytor
 
 # CONSTANTS
 BASE_URL = 'http://www.city-data.com/city/{}-{}.html'
@@ -13,23 +19,28 @@ ALL_FILES = ['alabama.txt', 'alaska.txt', 'arizona.txt', 'arkansas.txt', 'califo
 RACES = {'White alone': 'Pct_White', 'Hispanic':'Pct_Hispanic', 'Asian alone':'Pct_Asian', 'Two or more races':'Pct_Mixed', 'American Indian alone': 'Pct_Native American', 'Black alone':'Pct_Black', 'Native Hawaiian and OtherPacific Islander alone': 'Pct_Native Hawaiian/Pacific Islander', 'Other race alone':'Pct_Other'}
 LEGAL_STATES = ['Alaska', 'Oregon', 'Washington', 'California', 'Nevada', 'Colorado', 'Massachusetts', 'Maine', 'Vermont']
 
-STATE_CSV_COLNS = ['city', 'population', 'median_age', 'median_gross_rent', 'Pct_White', 'Pct_Hispanic', 'Pct_Mixed', 'Pct_Asian', 'Pct_Black', 'Pct_Native American', 'Pct_Other', 'mj_legal']
+STATE_CSV_COLNS = ['city', 'population', 'median_age', 'median_gross_rent', 'Pct_White', 'Pct_Hispanic', 'Pct_Mixed', 'Pct_Asian', 'Pct_Black', 'Pct_Native American', 'Pct_Native Hawaiian/Pacific Islander', 'Pct_Other', 'mj_legal']
 ERR_CSV_COLNS = ['state', 'city', 'url', 'error']
 #ERROR = (None, {'population': None, 'median_age': None, 'Pct_White': None, 'Pct_Hispanic': None, 'Pct_Mixed': None, 'Pct_Asian': None, 'Pct_Black': None, 'Pct_Native American': None, 'Pct_Other': None, 'median_gross_rent': None})
 NUM_CITIES = 25149
+TOR = None
 
 # MAIN 
 
 ### URL FORMATTING METHODS
 
-def generate_urls():
+def generate_urls(gen=True):
 	url_list = []
 	for f, s in zip(ALL_FILES, ALL_STATES):
 		state_path = 'cities/{}'.format(f)
 		with open(state_path, 'r') as state_cities:
 			for city in state_cities.readlines():
 				url_list.append(format_url(s, city))
-	return (state_url for state_url in url_list)
+
+	if gen:
+		return (state_url for state_url in url_list)
+	else: 
+		return url_list
 
 def format_url(state, city):
 	no_newline_city = city.rstrip()
@@ -108,6 +119,25 @@ def get_city_wrapper(dir_path, state, city, url):
 	except Exception as e:
 		write_to_err_log(dir_path, state, city, url, e)
 
+def scrape_all_cities(path):
+	all_urls = generate_urls(gen=False)[17000:18000]
+	from multiprocessing.pool import ThreadPool
+	pool = ThreadPool(8)
+
+	def get_soup(meta_tuple):
+		state, city, url = meta_tuple
+		page = requests.get(url).text
+
+		with open("{}/{}_{}.txt".format(path, state,city), "w") as f:
+			f.write(page)
+
+		print('got', state, city)
+		#return (state, city, BeautifulSoup(page, 'html.parser'))
+
+	results = pool.map(get_soup, all_urls)
+	pool.close()
+	pool.join()
+
 ### CSV METHODS 
 
 def init_csv(path, name, fields):
@@ -138,21 +168,26 @@ def write_to_err_log(dir_path, state, city, url, err):
 		writer = csv.DictWriter(err_csv, fieldnames=ERR_CSV_COLNS)
 		writer.writerow({'state': state, 'city': city, 'url': url, 'error': err})
 
-if __name__ == '__main__': 
-	
-	all_urls = generate_urls()
-	path = '/Users/michaelusa/Desktop/city_data'
-	init_err_log(path)
-	init_state_csvs(path)
+### NETWORKING CONFIG
 
-	sleep_count = 0
-	write_list = []
-	for city_meta in all_urls:
-		if sleep_count % 20 == 0:
-			sleep_time = random.randint(1,3)*1.6129
-			time.sleep(sleep_time)
-		
+def config_tor():
+	socks.setdefaultproxy(socks.PROXY_TYPE_SOCKS5, '127.0.0.1', 9150)
+	socket.socket = socks.socksocket
+	#TOR = pytor()
+	#TOR.identityTime(60)
+
+if __name__ == '__main__': 
+
+	all_urls = generate_urls(gen=False)
+	#path = '/Users/michaelusa/Desktop/city_data'
+	#init_err_log(path)
+	#init_state_csvs(path)
+	#TOR = pytor()
+	#TOR.identityTime(60)
+	config_tor()
+	scrape_all_cities('/Users/michaelusa/Downloads/raw')
+	"""
+	for city_meta in tqdm(all_urls):
 		get_city_wrapper(path, *city_meta)
-		sleep_count += 1
-		break
+	"""
 
