@@ -200,31 +200,32 @@ def init(path):
 	init_err_log(path)
 	init_state_csvs(path)
 
-if __name__ == '__main__': 
+def format_scrape_inputs(store_path, data_path):
+	data_path_in = data_path + '/{}'
+	os.chdir(data_path)
+	all_scraped_paths = {item.split('.')[0]: data_path_in.format(item) for item in os.listdir()}
 
-	all_urls, all_cities = generate_urls(gen=False, cities_list=True)
-	store_path = '/Users/michaelusa/Desktop/city_data'
-	init(store_path)
-	
-	data_path = '/Users/michaelusa/Downloads/raw_22479/{}'
-	os.chdir('/Users/michaelusa/Downloads/raw_22479')
-	all_scraped_paths = {item.split('.')[0]: data_path.format(item) for item in os.listdir()}
-	print(all_urls, all_cities)
-
-	actual = []
+	inputs = []
 	for tup, city_form in zip(all_urls, all_cities):
 		s, c, url = tup
 		val = all_scraped_paths.get(city_form)
 		if val is not None:
-			actual.append((store_path, val, s, c, url))
+			inputs.append((store_path, val, s, c, url))
+	return inputs
+
+if __name__ == '__main__': 
+
+	all_urls, all_cities = generate_urls(gen=False, cities_list=True)
+	store_path = '/Users/michaelusa/Desktop/city_data'
+	data_path = '/Users/michaelusa/Downloads/raw_22479'
+
+	init(store_path)
+	inputs = format_scrape_inputs(store_path, data_path)
 
 	"""
-	for val, s, c, url in tqdm(actual):
-		get_city_wrapper(store_path, val, s, c, url)
-	"""
-
 	from multiprocessing import Pool
 	pool = Pool(8)
 	results = pool.map(get_city_wrapper_parallel, actual)
 	pool.close()
 	pool.join()
+	"""
