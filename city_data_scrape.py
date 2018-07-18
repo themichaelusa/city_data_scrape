@@ -1,5 +1,6 @@
 
 # IMPORTS 
+import os
 import csv
 import time
 import socks
@@ -10,7 +11,7 @@ import requests
 from bs4 import BeautifulSoup
 from tqdm import tqdm
 
-from pytor import pytor
+#from pytor import pytor
 
 # CONSTANTS
 BASE_URL = 'http://www.city-data.com/city/{}-{}.html'
@@ -29,23 +30,33 @@ TOR = None
 
 ### URL FORMATTING METHODS
 
-def generate_urls(gen=True):
-	url_list = []
+def generate_urls(gen=True, cities_list=False):
+	url_list, city_list = [], []
+
 	for f, s in zip(ALL_FILES, ALL_STATES):
 		state_path = 'cities/{}'.format(f)
 		with open(state_path, 'r') as state_cities:
 			for city in state_cities.readlines():
 				url_list.append(format_url(s, city))
+				if cities_list:
+					city_list.append((s + '_' + city.rstrip()))
+
+	if cities_list:
+		return (url_list, city_list)
 
 	if gen:
 		return (state_url for state_url in url_list)
 	else: 
-		return url_list
+		return url_list		
 
 def format_url(state, city):
 	no_newline_city = city.rstrip()
 	form_city = '-'.join(no_newline_city.split(' '))
 	return (state, no_newline_city, BASE_URL.format(form_city, state))
+
+def get_url_city_name(city):
+	no_newline_city = city.rstrip()
+	return '-'.join(no_newline_city.split(' '))
 
 ### SCRAPED SITE PARSE METHODS
 
@@ -79,9 +90,12 @@ def get_prop_races_dict(soup):
 
 ### MAIN SCRAPE METHOD
 
-def get_city_data(state, city, url):
-	page = requests.get(url)
-	soup = BeautifulSoup(page.text, 'html.parser')
+def get_city_data(city_path, state, city):
+	soup = None
+	with open(city_path, 'r') as f:
+		soup = BeautifulSoup(''.join(f.readlines()), 'html.parser')
+
+	#soup = BeautifulSoup(page.text, 'html.parser')
 
 	## get cities pop
 	raw_pop_text = soup.find(class_='city-population').text
@@ -112,15 +126,21 @@ def get_city_data(state, city, url):
 
 	return final_dict
 
-def get_city_wrapper(dir_path, state, city, url):
+def get_city_wrapper(store_path, city_path, state, city, url):
 	try:
-		data = get_city_data(state, city, url)
-		write_to_csv(dir_path, state, data)
+		# todo: open and pass txt file data to get_city_data
+		data = get_city_data(city_path, state, city)
+		write_to_csv(store_path, state, data)
 	except Exception as e:
-		write_to_err_log(dir_path, state, city, url, e)
+		write_to_err_log(store_path, state, city, url, e)
 
+def get_city_wrapper_parallel(data_tuple):
+	get_city_wrapper(*data_tuple)
+	print('done', data_tuple[2], data_tuple[3])
+
+"""
 def scrape_all_cities(path):
-	all_urls = generate_urls(gen=False)[17000:18000]
+	all_urls = generate_urls(gen=False)[25000:25148]
 	from multiprocessing.pool import ThreadPool
 	pool = ThreadPool(8)
 
@@ -132,11 +152,11 @@ def scrape_all_cities(path):
 			f.write(page)
 
 		print('got', state, city)
-		#return (state, city, BeautifulSoup(page, 'html.parser'))
 
 	results = pool.map(get_soup, all_urls)
 	pool.close()
 	pool.join()
+"""
 
 ### CSV METHODS 
 
@@ -146,24 +166,24 @@ def init_csv(path, name, fields):
 	    writer = csv.DictWriter(named_csv, fieldnames=fields)
 	    writer.writeheader()
 
-def init_state_csvs(dir_path):
+def init_state_csvs(store_path):
 	for state in ALL_STATES:
-		init_csv(dir_path, state, STATE_CSV_COLNS)
+		init_csv(store_path, state, STATE_CSV_COLNS)
 
 # pass generator for rows
-def write_to_csv(dir_path, state, city_row):
-	full_path = '{}/{}.csv'.format(dir_path, state)
+def write_to_csv(store_path, state, city_row):
+	full_path = '{}/{}.csv'.format(store_path, state)
 	with open(full_path, 'a', newline='') as state_csv:
 		writer = csv.DictWriter(state_csv, fieldnames=STATE_CSV_COLNS)
 		writer.writerow(city_row)
 
 ### ERROR HANDLING METHODS
 
-def init_err_log(dir_path):
-	init_csv(dir_path, 'error_log', ERR_CSV_COLNS)
+def init_err_log(store_path):
+	init_csv(store_path, 'error_log', ERR_CSV_COLNS)
 
-def write_to_err_log(dir_path, state, city, url, err):
-	full_path = '{}/error_log.csv'.format(dir_path)
+def write_to_err_log(store_path, state, city, url, err):
+	full_path = '{}/error_log.csv'.format(store_path)
 	with open(full_path, 'a', newline='') as err_csv:
 		writer = csv.DictWriter(err_csv, fieldnames=ERR_CSV_COLNS)
 		writer.writerow({'state': state, 'city': city, 'url': url, 'error': err})
@@ -173,21 +193,38 @@ def write_to_err_log(dir_path, state, city, url, err):
 def config_tor():
 	socks.setdefaultproxy(socks.PROXY_TYPE_SOCKS5, '127.0.0.1', 9150)
 	socket.socket = socks.socksocket
-	#TOR = pytor()
-	#TOR.identityTime(60)
+
+### SETUP 
+
+def init(path):
+	init_err_log(path)
+	init_state_csvs(path)
 
 if __name__ == '__main__': 
 
-	all_urls = generate_urls(gen=False)
-	#path = '/Users/michaelusa/Desktop/city_data'
-	#init_err_log(path)
-	#init_state_csvs(path)
-	#TOR = pytor()
-	#TOR.identityTime(60)
-	config_tor()
-	scrape_all_cities('/Users/michaelusa/Downloads/raw')
+	all_urls, all_cities = generate_urls(gen=False, cities_list=True)
+	store_path = '/Users/michaelusa/Desktop/city_data'
+	init(store_path)
+	
+	data_path = '/Users/michaelusa/Downloads/raw_22479/{}'
+	os.chdir('/Users/michaelusa/Downloads/raw_22479')
+	all_scraped_paths = {item.split('.')[0]: data_path.format(item) for item in os.listdir()}
+	print(all_urls, all_cities)
+
+	actual = []
+	for tup, city_form in zip(all_urls, all_cities):
+		s, c, url = tup
+		val = all_scraped_paths.get(city_form)
+		if val is not None:
+			actual.append((store_path, val, s, c, url))
+
 	"""
-	for city_meta in tqdm(all_urls):
-		get_city_wrapper(path, *city_meta)
+	for val, s, c, url in tqdm(actual):
+		get_city_wrapper(store_path, val, s, c, url)
 	"""
 
+	from multiprocessing import Pool
+	pool = Pool(8)
+	results = pool.map(get_city_wrapper_parallel, actual)
+	pool.close()
+	pool.join()
